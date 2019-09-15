@@ -44,3 +44,8 @@ Programa No.2
 Escriba un programa que le pregunte al usuario el largo y el anchode una habitacion. Una vez que los valore han sido leidos su programa debe calcular y desplegar el area de la habitacion. El largo y el ancho debe de ser introducido con punto flotante (decimal) Incluya las unidades metros en su mensaje de estrada y de salida.
 <img src="2 py.png" />
 
+Programa No.3
+Crea un programa que lea el largo y ancho de un campo de cultivo, introducido por el usuario y despliege el area del campo en acres
+<img src="3 py.png" />
+
+
