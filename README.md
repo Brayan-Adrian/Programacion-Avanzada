@@ -39,3 +39,8 @@ Escribe un programa que desplieje su nombre y su direccion de tal manera que pue
 
 En este programa solo se utilizara el comando print ya que solo re requiere que imprima el mensaje en el sobre  de la carta a continuacion se presenta el codigo programado de lado izquiero y del lado derecho la compilacion.
 <img src="1 py.png" />
+
+Programa No.2
+Escriba un programa que le pregunte al usuario el largo y el anchode una habitacion. Una vez que los valore han sido leidos su programa debe calcular y desplegar el area de la habitacion. El largo y el ancho debe de ser introducido con punto flotante (decimal) Incluya las unidades metros en su mensaje de estrada y de salida.
+<img src="2 py.png" />
+
