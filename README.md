@@ -37,4 +37,5 @@ Pra poder programar en python es necesario instalar su programa lo cual es muy f
 Programa No.1 
 Escribe un programa que desplieje su nombre y su direccion de tal manera que pueda escribir en un sobre de correo , su programa no tiene que leerningun dato de entrada por el ususrio.
 
-En este programa solo se utilizara el comando print ya que solo re requiere que imprima el mensaje en el sobre  de la carta a continuacion se presenta el codigo programado de lado izquiero y del lado derecho la compilacion .
+En este programa solo se utilizara el comando print ya que solo re requiere que imprima el mensaje en el sobre  de la carta a continuacion se presenta el codigo programado de lado izquiero y del lado derecho la compilacion.
+<img src="Imagen 1.1.png" />
