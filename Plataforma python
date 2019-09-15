@@ -1,0 +1,21 @@
+# Programacion-Avanzada
+Programando en la plataforma python
+# Tecnologico de Estudios Superiores de Huixquilucan
+### Ingenieria Mecatronica
+### Asignatura: Programación avanzada
+### Asesor. Dr. Enrique García Trinidad
+### Alumno. Brayan Adrian Navarrete Maltos
+
+# Python 
+
+### ¿Ques es python?
+Python es un lenguaje de programación creado por Guido van Rossum a principios de los años 90. 
+El programa favorece una sintaxis muy limpia ya que favorece un codigo legible. Se trata de un lenguaje interpretado o de script, con tipado dinamico, fuertemente tipado, multiplatoforma orientada a objetos.
+
+### Lenguaje interpretado o de Script
+Un lenguaje interpretado o de Script es aque que se ejecuta utilizando un programa de intermedio llamado interprete, en lugar de compilar el codigo al lenguaje maquina que puede comprender y ejecutar directamente la computadora "Lenguajes compilados".
+La ventaja de los lenguajes compilados es que en su ejecución es más rápida.
+Sin embargo, los lenguajes interpretados son más flexibles y más portátiles. Python es un ejemplo de un lenguaje de alto nivel como C ++, C #, PHP, Pascal y Java, los idiomas de alto nivel se consideran los lenguajes maquina o lenguajes de ensamblador sin embargo, los idiomas de alto nivel simpre tienen que ser convertidos a lenguajes de bajo nivel poara que puedan correr.
+El lenguaje de programacion python guarda sus scripts en terminacion archivo.py
+
+### Tipado dinamico
