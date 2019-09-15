@@ -10,4 +10,10 @@
 Python es un lenguaje de programacion creado de Guido van Rossum a principios de los años 90. 
 El programa favorece una sintaxis muy limpia ya que favorece un codigo legible. Se trata de un lenguaje interpretado o de script, con tipado dinamico, fuertemente tipado, multiplatoforma orientada a objetos. 
 
-###Lenguaje interpretado o de Script
+### Lenguaje interpretado o de Script
+Un lenguaje interpretado o de Script es aque que se ejecuta utilizando un programa de intermedio llamado interprete, en lugar de compilar el codigo al lenguaje maquina que pueda comprender y ejecutar directamente la computadora "Lenguajes compilados".
+La ventaja de los lenguajes compilados es que en su ejecucion es mas rapida.
+Sin embargo los lenguajes interpretados son mas flexibles y mas portables. Python es un ejemplo de un lenguaje de alto nivel como C++, C#, PHP, Pascal y Java los lenguajes de alto nivel se refieren a los lenguajes maquina o lenguajes de ensamblador sin embargo los lenguajes de alto nivel simpre tienen que ser convertidas a lenguajes de bajo nivel poara que puedan correr.
+El lenguaje de programacion python guarda sus scripts en terminacion archivo.py
+
+### Tipado dinamico
