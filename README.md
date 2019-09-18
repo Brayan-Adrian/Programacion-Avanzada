@@ -68,4 +68,6 @@ Escriba un programa que lea el número de contenedores de cada tamaño del usuar
 
 Solucion: hay que resaltar que solo nos estan pidiendo dos decimales para eso se utilizara el siguiente codigo "$%.2f' %" a la hora de que muestre el resultado de la operacion, las variables de las botellas a introducir seran de tipo en tero ya que no podemos introducir decimales en dicha orden, y la operacion del rembolso se realiza multiplicando las botellas ya sean chicas o grandes por la variable establecida, y despues sumar las dos variables, para que quede mejor entendible se presentara a continuacion el siguiente codigo. https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/EjTarea.py
 Y tambien lo podemos ver en la siguinete imagen.
+<img src="3 py.png" />
+
 
