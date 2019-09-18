@@ -46,7 +46,7 @@ El comando input permite al usuario introducir informacion utilizando el teclado
 
 El comando int convierte a tipo entero.
 El comando float convierte a tipo decimal.
-El comando del programa es el siguiente:  
+El comando del programa es el siguiente:
 Y tambien lo podemos ver en la siguinete imagen.
 <img src="Ej2 Nombre, Estatura, Edad.png" /> 
 
