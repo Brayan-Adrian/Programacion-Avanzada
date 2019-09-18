@@ -43,25 +43,27 @@ Y tambien lo podemos ver en la siguinete imagen.
 Programa No.2
 El comando print imprime un mensaje en la pantalla o en otro dispositivo de salida. El mansaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres. 
 El comando input permite al usuario introducir informacion utilizando el teclado la variable donde se guarda dicha informacion es de tipo string o cadena de caracteres.
-
 El comando int convierte a tipo entero.
 El comando float convierte a tipo decimal.
-El comando del programa es el siguiente:
+El comando del programa es el siguiente:https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej2%20Nombre%2C%20edad%2C%20estatura.py
 Y tambien lo podemos ver en la siguinete imagen.
 <img src="Ej2 Nombre, Estatura, Edad.png" /> 
 
-
-Escribe un programa que desplieje su nombre y su direccion de tal manera que pueda escribir en un sobre de correo , su programa no tiene que leerningun dato de entrada por el ususrio.
-
-En este programa solo se utilizara el comando print ya que solo requiere que imprima el mensaje en el sobre  de la carta, a continuacion se presenta el codigo programado de lado izquiero y del lado derecho la compilacion.
+Programa No.3
+Escribe un programa que desplieje su nombre y su direccion de tal manera que pueda escribir en un sobre de correo , su programa no tiene que leerningun dato de entrada por el usuario.
+En este programa solo se utilizara el comando print ya que solo requiere que imprima el mensaje en el sobre de la carta, a continuacion se presenta el codigo programado de lado izquiero y del lado derecho la compilacion.
 <img src="1 py.png" />
 
-Programa No.2
+Programa No.4
 Escriba un programa que le pregunte al usuario el largo y el anchode una habitacion. Una vez que los valore han sido leidos su programa debe calcular y desplegar el area de la habitacion. El largo y el ancho debe de ser introducido con punto flotante (decimal) Incluya las unidades metros en su mensaje de estrada y de salida.
 <img src="2 py.png" />
 
-Programa No.3
+Programa No.5
 Crea un programa que lea el largo y ancho de un campo de cultivo, introducido por el usuario y despliege el area del campo en acres
 <img src="3 py.png" />
 
+Ejercicio de tarea 
+En muchos establecimientos, se agrega un pequeño depósito a los envases de bebidas para alentar a las personas a reciclarlos. En una jurisdicción en particular, los envases de bebidas con un litro o menos tienen un depósito de $0.10, y los envases de bebidas con más de un litro tienen un depósito de $ 0.25.
+Escriba un programa que lea el número de contenedores de cada tamaño del usuario. Su programa debe continuar calculando y mostrando el reembolso que se recibirá por devolver esos contenedores. Formatee la salida para que incluya un signo de dólar y siempre muestre exactamente dos decimales.
 
+Solucion: hay que resaltar que solo nos estan pidiendo dos decimales para eso se utilizara el siguiente codigo "$%.2f' %" a la hora de que muestre el resultado de la operacion, las variables de las botellas a introducir seran de tipo en tero ya que no podemos introducir decimales en dicha orden, y la operacion del rembolso se realiza multiplicando las botellas ya sean chicas o grandes por la variable establecida, y despues sumar las dos variables, para que quede mejor entendible se presentara a continuacion el siguiente codigo.
