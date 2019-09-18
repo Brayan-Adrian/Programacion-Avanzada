@@ -36,7 +36,18 @@ Para poder programar en python es necesario instalar su programa lo cual es muy 
 
 Programa No.1 
 El comando print imprime un mensaje en la pantalla o en otro dispositivo de salida. El mansaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres. 
-El comando del programa es el siguiente: 
+El comando del programa es el siguiente: https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej1%20Cual%20es%20tu%20nombe.py
+Y tambien lo podemos ver en la siguinete imagen.
+<img src="1 py.png" />
+
+Programa No.2
+El comando print imprime un mensaje en la pantalla o en otro dispositivo de salida. El mansaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres. 
+El comando input permite al usuario introducir informacion utilizando el teclado la variable donde se guarda dicha informacion es de tipo string o cadena de caracteres.
+El comando int convierte a tipo entero.
+El comando float convierte a tipo decimal.
+El comando del programa es el siguiente:  
+
+
 
 Escribe un programa que desplieje su nombre y su direccion de tal manera que pueda escribir en un sobre de correo , su programa no tiene que leerningun dato de entrada por el ususrio.
 
