@@ -63,11 +63,20 @@ Crea un programa que lea el largo y ancho de un campo de cultivo, introducido po
 <img src="3 py.png" />
 
 Ejercicio de tarea 
+
 En muchos establecimientos, se agrega un pequeño depósito a los envases de bebidas para alentar a las personas a reciclarlos. En una jurisdicción en particular, los envases de bebidas con un litro o menos tienen un depósito de $0.10, y los envases de bebidas con más de un litro tienen un depósito de $ 0.25.
 Escriba un programa que lea el número de contenedores de cada tamaño del usuario. Su programa debe continuar calculando y mostrando el reembolso que se recibirá por devolver esos contenedores. Formatee la salida para que incluya un signo de dólar y siempre muestre exactamente dos decimales.
 
 Solucion: hay que resaltar que solo nos estan pidiendo dos decimales para eso se utilizara el siguiente codigo "$%.2f' %" a la hora de que muestre el resultado de la operacion, las variables de las botellas a introducir seran de tipo en tero ya que no podemos introducir decimales en dicha orden, y la operacion del rembolso se realiza multiplicando las botellas ya sean chicas o grandes por la variable establecida, y despues sumar las dos variables, para que quede mejor entendible se presentara a continuacion el siguiente codigo. https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/EjTarea.py
 Y tambien lo podemos ver en la siguinete imagen.
 <img src="Ej2Tarea.png" />
+
+Programa No.6
+Hacer un programa en el que el usuario introduzca el nombre de la comida que ordeno en un restaurante y su precio despues su programa debe calcular el subtotal, el iva y la propina, de toda la cuenta la salida del programa debe parecerse a un ticket de restaurante. Use un iva de 16% y una propina del 15% del subtotal. Los valores numericos deben tener dos decimales.
+
+Solucion Para poder llegar al objetivo de lo indicado pondremos el nombre y el valor de 5 comidas, con el comando print seguido de str haremos el nombre de la comida y con el valor de la comida de igual forma el comando print seguido del comando int. crearemos las varibles Subtotal, IVA, Propina para poderlas sumar y muestre al final el monto total, el codigo es el siguiente
+
+
+
 
 
