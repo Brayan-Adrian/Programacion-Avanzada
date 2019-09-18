@@ -29,15 +29,18 @@ El interprete de python esta disponible en multitud de plataformas  (UNIX, SOLAR
 La orientacion a objetos es un paradigma de programacion en el que los conceptos del mundo real relevantes para nuestro problema se trasladan a clases y objetos en nuestro programa la ejecucion del programa consiste en una serie de interacciones entre los objetos .
 
 ### Por que python ?
-El software es el nucleo de todas las herramientas que utilizamos hoy en dia casi todos usamos redes sociales para comunicarnos muchaspersonas estan conectadas a internet todo el dia , y la mayoria de los trabajos siempre se interactuan con una computadora  opara tener el trabajpo hecho . Como resultado la demanda de las personas que sepan programas a aumentado .
-Python es un lenguaje que con su sintaxis simple, clara y sencilla puede automatizar simples tareas como mover. nombrar o reciclar archivos , llenar de forma automatica formularios en internet , descargar archivos o extraer informacion de paginas de internet de forma masiva , hace que su computadora le envie a su telefono informacion de quien la esta usando , checar su emaily contestarlo de manera automatica.
+El software es el nucleo de todas las herramientas que utilizamos hoy en dia casi todos usamos redes sociales para comunicarnos muchaspersonas estan conectadas a internet todo el dia , y la mayoria de los trabajos siempre se interactuan con una computadora o para tener el trabajo hecho. Como resultado la demanda de las personas que sepan programar a aumentado .
+Python es un lenguaje que con su sintaxis simple, clara y sencilla puede automatizar simples tareas como mover, nombrar o reciclar archivos, llenar de forma automatica formularios en internet, descargar archivos o extraer informacion de paginas de internet de forma masiva, hace que su computadora le envie a su telefono informacion de quien la esta usando , checar su email y contestarlo de manera automatica.
 
-Pra poder programar en python es necesario instalar su programa lo cual es muy facil solo hay que ir a la pagina ANACONDA PYTHON y descargar la  version  3.7 para 64 bits es de gran importancia señalar el sistema  en el cual lo vamos a trabajar, ya instalado el programa procederemos a la  y para ello en el buscador indicamos la palabra spyder ya que este es el programa donde haremos todos nuestros programas.
+Para poder programar en python es necesario instalar su programa lo cual es muy facil solo hay que ir a la pagina ANACONDA PYTHON y descargar la  version  3.7 para 64 bits es de gran importancia señalar el sistema  en el cual lo vamos a trabajar, ya instalado el programa procederemos a la programacion y para ello en el buscador del sistema indicamos la palabra spyder ya que este es el programa donde haremos todos nuestros programas.
 
 Programa No.1 
+El comando print imprime un mensaje en la pantalla o en otro dispositivo de salida. El mansaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres. 
+El comando del programa es el siguiente: 
+
 Escribe un programa que desplieje su nombre y su direccion de tal manera que pueda escribir en un sobre de correo , su programa no tiene que leerningun dato de entrada por el ususrio.
 
-En este programa solo se utilizara el comando print ya que solo re requiere que imprima el mensaje en el sobre  de la carta a continuacion se presenta el codigo programado de lado izquiero y del lado derecho la compilacion.
+En este programa solo se utilizara el comando print ya que solo requiere que imprima el mensaje en el sobre  de la carta, a continuacion se presenta el codigo programado de lado izquiero y del lado derecho la compilacion.
 <img src="1 py.png" />
 
 Programa No.2
