@@ -43,10 +43,12 @@ Y tambien lo podemos ver en la siguinete imagen.
 Programa No.2
 El comando print imprime un mensaje en la pantalla o en otro dispositivo de salida. El mansaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres. 
 El comando input permite al usuario introducir informacion utilizando el teclado la variable donde se guarda dicha informacion es de tipo string o cadena de caracteres.
+
 El comando int convierte a tipo entero.
 El comando float convierte a tipo decimal.
 El comando del programa es el siguiente:  
-
+Y tambien lo podemos ver en la siguinete imagen.
+<img src="Ej2 Nombre, Estatura, Edad.png" /> 
 
 
 Escribe un programa que desplieje su nombre y su direccion de tal manera que pueda escribir en un sobre de correo , su programa no tiene que leerningun dato de entrada por el ususrio.
