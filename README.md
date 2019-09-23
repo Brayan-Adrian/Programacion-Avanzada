@@ -72,6 +72,12 @@ Y tambien lo podemos ver en la siguinete imagen.
 <img src="Ej2Tarea.png" />
 
 Programa No.7
+#Escriba un programa que lea un numero positivo (n), insertado por el usuario y despues despliege la suma de todos los enteros desde 1 hasta n. La suma de los primeros enteros n positivos puede ser calculado usando la formula suma=(n)(n+1)
+
+Solucion. Insertamos un numero cualquiera, en este caso se eligio 5 ya que es el mas facil de comprobar y calcularlo mentalmente, la formua se muestra en la parte de arriba, el codigo es el siguiente. https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej7.py
+<img src="Ej7 inserta un numero positivo.png" />
+
+Programa No.8
 Hacer un programa en el que el usuario introduzca el nombre de la comida que ordeno en un restaurante y su precio despues su programa debe calcular el subtotal, el iva y la propina, de toda la cuenta la salida del programa debe parecerse a un ticket de restaurante. Use un iva de 16% y una propina del 15% del subtotal. Los valores numericos deben tener dos decimales.
 
 Solucion. Para poder llegar al objetivo de lo indicado pondremos el nombre y el valor de 5 comidas, con el comando print seguido de str haremos el nombre de la comida y con el valor de la comida de igual forma el comando print seguido del comando int. crearemos las varibles Subtotal, IVA, Propina para poderlas sumar y muestre al final el monto total, el codigo es el siguiente.
@@ -79,13 +85,7 @@ https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej6%20Ticket.
 Y tambien lo podemos ver en la siguiente imagen.
 <img src="Ej6 Ticket.png" />
 
-Programa No.7
-#Escriba un programa que lea un numero positivo (n), insertado por el usuario y despues despliege la suma de todos los enteros desde 1 hasta n. La suma de los primeros enteros n positivos puede ser calculado usando la formula suma=(n)(n+1)
-
-Solucion. Insertamos un numero cualquiera, en este caso se eligio 5 ya que es el mas facil de comprobar y calcularlo mentalmente, la formua se muestra en la parte de arriba, el codigo es el siguiente. https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej7.py
-<img src="Ej7 inserta un numero positivo.png" />
-
-Programa No.8
+Programa No.9
 Un vendedor de una pagina de abarrotes en linea vende dos tipos de cajas de cereal. CornFlakes de 750gr y Trix de 500gr. Escriba un programa que lea el numero de cajas de CornFlakes y cajas de Trix, cuyo valor debe ser introducido por el usuario. Despues, su programa debe calcular y mostrar el total del peso (en kilogramos).
 
 Solucion. Empezamos agregando las constantes T, y C de las cajas ya que son los gramos que pesa cada una, y las multiplicamos por las variables que van hacer el numero que el usuario introducira.
@@ -93,7 +93,16 @@ Hacemos una variable que haga la operacion de sumar los gramos por las cajas a i
 Y tambien lo podemos ver en la siguiente imagen.
 <img src="Ej8 Peso de Cajas.png" />
 
-Programa No.9
+Programa No.10 Aritmetica
+Cree un programa que lea dos valores enteros, a y b, introducidos por el usuario. Su programa debe desplegar la suma de a y b 
+La diferencia cuando a es sustraido a b 
+El cociente cuando a divide a b
+El residuo cuando a divide a b 
+El resultado de log(a)
+El resultado de a a la potencia b 
+
+Solucion. Un tip a utilizar es mandando a llamar la libreria Math la cual no ubicaremos en la parte de abajo de la plataforma spyder y pondremos import math seguido de comando enter para que nos despliege la lista de funciones matematicas,  el codigo es el siguiente.
+Y tambien lo podemos ver en la siguiente imagen.
 
 
 
