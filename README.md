@@ -85,7 +85,7 @@ Un vendedor de una pagina de abarrotes en linea vende dos tipos de cajas de cere
 Solucion. Empezamos agregando las constantes T, y C de las cajas ya que son los gramos que pesa cada una, y las multiplicamos por las variables que van hacer el numero que el usuario introducira.
 Hacemos una variable que haga la operacion de sumar los gramos por las cajas a introducir y las dividimos entre 1000 para que nos imprima los kilogramos, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej8%20Peso%20de%20las%20cajas.py
 Y tambien lo podemos ver en la siguiente imagen.
-<img src="Ej6 Ticket.png" />
+<img src="Ej8 Peso de Cajas.png" />
 
 
 
