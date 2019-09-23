@@ -101,7 +101,7 @@ El residuo cuando a divide a b
 El resultado de log(a)
 El resultado de a a la potencia b 
 
-Solucion. Un tip a utilizar es mandando a llamar la libreria Math la cual no ubicaremos en la parte de abajo de la plataforma spyder y pondremos import math seguido de comando enter para que nos despliege la lista de funciones matematicas,  el codigo es el siguiente.
+Solucion. Un tip a utilizar es mandando a llamar la libreria Math la cual no ubicaremos en la parte de abajo de la plataforma spyder y pondremos import math seguido de comando enter para que nos despliege la lista de funciones matematicas,  el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Aritmetica.py
 Y tambien lo podemos ver en la siguiente imagen.
 <img src="Aritmeticaa.png" />
 
