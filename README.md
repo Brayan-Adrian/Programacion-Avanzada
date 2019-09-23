@@ -83,7 +83,7 @@ Programa No.8
 Un vendedor de una pagina de abarrotes en linea vende dos tipos de cajas de cereal. CornFlakes de 750gr y Trix de 500gr. Escriba un programa que lea el numero de cajas de CornFlakes y cajas de Trix, cuyo valor debe ser introducido por el usuario. Despues, su programa debe calcular y mostrar el total del peso (en kilogramos).
 
 Solucion. Empezamos agregando las constantes T, y C de las cajas ya que son los gramos que pesa cada una, y las multiplicamos por las variables que van hacer el numero que el usuario introducira.
-Hacemos una variable que haga la operacion de sumar los gramos por las cajas a introducir y las dividimos entre 1000 para que nos imprima los kilogramos, el codigo es el siguiente.
+Hacemos una variable que haga la operacion de sumar los gramos por las cajas a introducir y las dividimos entre 1000 para que nos imprima los kilogramos, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej8%20Peso%20de%20las%20cajas.py
 Y tambien lo podemos ver en la siguiente imagen.
 <img src="Ej6 Ticket.png" />
 
