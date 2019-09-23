@@ -62,7 +62,7 @@ Programa No.5
 Crea un programa que lea el largo y ancho de un campo de cultivo, introducido por el usuario y despliege el area del campo en acres
 <img src="3 py.png" />
 
-Ejercicio de tarea 
+Ejercicio de tarea 6
 
 En muchos establecimientos, se agrega un pequeño depósito a los envases de bebidas para alentar a las personas a reciclarlos. En una jurisdicción en particular, los envases de bebidas con un litro o menos tienen un depósito de $0.10, y los envases de bebidas con más de un litro tienen un depósito de $ 0.25.
 Escriba un programa que lea el número de contenedores de cada tamaño del usuario. Su programa debe continuar calculando y mostrando el reembolso que se recibirá por devolver esos contenedores. Formatee la salida para que incluya un signo de dólar y siempre muestre exactamente dos decimales.
@@ -71,14 +71,21 @@ Solucion: hay que resaltar que solo nos estan pidiendo dos decimales para eso se
 Y tambien lo podemos ver en la siguinete imagen.
 <img src="Ej2Tarea.png" />
 
-Programa No.6
+Programa No.7
 Hacer un programa en el que el usuario introduzca el nombre de la comida que ordeno en un restaurante y su precio despues su programa debe calcular el subtotal, el iva y la propina, de toda la cuenta la salida del programa debe parecerse a un ticket de restaurante. Use un iva de 16% y una propina del 15% del subtotal. Los valores numericos deben tener dos decimales.
 
-Solucion Para poder llegar al objetivo de lo indicado pondremos el nombre y el valor de 5 comidas, con el comando print seguido de str haremos el nombre de la comida y con el valor de la comida de igual forma el comando print seguido del comando int. crearemos las varibles Subtotal, IVA, Propina para poderlas sumar y muestre al final el monto total, el codigo es el siguiente.
+Solucion. Para poder llegar al objetivo de lo indicado pondremos el nombre y el valor de 5 comidas, con el comando print seguido de str haremos el nombre de la comida y con el valor de la comida de igual forma el comando print seguido del comando int. crearemos las varibles Subtotal, IVA, Propina para poderlas sumar y muestre al final el monto total, el codigo es el siguiente.
 https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej6%20Ticket.py
 Y tambien lo podemos ver en la siguiente imagen.
 <img src="Ej6 Ticket.png" />
 
+Programa No.8
+Un vendedor de una pagina de abarrotes en linea vende dos tipos de cajas de cereal. CornFlakes de 750gr y Trix de 500gr. Escriba un programa que lea el numero de cajas de CornFlakes y cajas de Trix, cuyo valor debe ser introducido por el usuario. Despues, su programa debe calcular y mostrar el total del peso (en kilogramos).
+
+Solucion. Empezamos agregando las constantes T, y C de las cajas ya que son los gramos que pesa cada una, y las multiplicamos por las variables que van hacer el numero que el usuario introducira.
+Hacemos una variable que haga la operacion de sumar los gramos por las cajas a introducir y las dividimos entre 1000 para que nos imprima los kilogramos, el codigo es el siguiente.
+Y tambien lo podemos ver en la siguiente imagen.
+<img src="Ej6 Ticket.png" />
 
 
 
