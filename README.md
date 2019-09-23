@@ -72,7 +72,7 @@ Y tambien lo podemos ver en la siguinete imagen.
 <img src="Ej2Tarea.png" />
 
 Programa No.7
-#Escriba un programa que lea un numero positivo (n), insertado por el usuario y despues despliege la suma de todos los enteros desde 1 hasta n. La suma de los primeros enteros n positivos puede ser calculado usando la formula suma=(n)(n+1)
+Escriba un programa que lea un numero positivo (n), insertado por el usuario y despues despliege la suma de todos los enteros desde 1 hasta n. La suma de los primeros enteros n positivos puede ser calculado usando la formula suma=(n)(n+1)
 
 Solucion. Insertamos un numero cualquiera, en este caso se eligio 5 ya que es el mas facil de comprobar y calcularlo mentalmente, la formua se muestra en la parte de arriba, el codigo es el siguiente. https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej7.py
 <img src="Ej7 inserta un numero positivo.png" />
@@ -93,17 +93,22 @@ Hacemos una variable que haga la operacion de sumar los gramos por las cajas a i
 Y tambien lo podemos ver en la siguiente imagen.
 <img src="Ej8 Peso de Cajas.png" />
 
-Programa No.10 Aritmetica
+Programa de tarea No.10 Aritmetica
 Cree un programa que lea dos valores enteros, a y b, introducidos por el usuario. Su programa debe desplegar la suma de a y b 
-La diferencia cuando a es sustraido a b 
+La diferencia cuando a es sustraido de b 
 El cociente cuando a divide a b
 El residuo cuando a divide a b 
 El resultado de log(a)
 El resultado de a a la potencia b 
 
-Solucion. Un tip a utilizar es mandando a llamar la libreria Math la cual no ubicaremos en la parte de abajo de la plataforma spyder y pondremos import math seguido de comando enter para que nos despliege la lista de funciones matematicas,  el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Aritmetica.py
-Y tambien lo podemos ver en la siguiente imagen.
-<img src="Aritmeticaa.png" />
+Solucion. Un tip a utilizar es mandando a llamar la libreria Math la cual no ubicaremos en la parte de abajo de la plataforma spyder y pondremos import math seguido de comando enter para que nos despliege la lista de funciones matematicas, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Aritmetica.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="Aritmeticaa.png" />
+
+Programa de tarea No.11 Eficiencia de combustible
+En los Estados Unidos, la eficiencia del combustible para vehículos se expresa normalmente en millas por galón (MPG). En México, la eficiencia del combustible normalmente se expresa en litros por cien kilómetros (L / 100km). Usa tus habilidades de investigación para determinar cómo convertir de MPG a L / 100km. Luego, cree un programa que lea un valor del usuario en unidades estadounidenses y muestre la eficiencia de combustible equivalente en unidades mexicanas.
+
+Solucion para poder convertir de MPG a L/100km es hacer la siguiente conversion multiplicar el numero introducido por 1.609 millas y despues dividirlo entre 3.78 que es lo que equivale a un galon, el codigo es el siguiente.
+Y tambien lo podemos ver en la siguiente imagen.<img src="Aritmeticaa.png" /
 
 
 
