@@ -82,7 +82,7 @@ Y tambien lo podemos ver en la siguiente imagen.
 Programa No.7
 #Escriba un programa que lea un numero positivo (n), insertado por el usuario y despues despliege la suma de todos los enteros desde 1 hasta n. La suma de los primeros enteros n positivos puede ser calculado usando la formula suma=(n)(n+1)
 
-Solucion. Insertamos un numero cualquiera, en este caso se eligio 5 ya que es el mas facil de comprobar y calcularlo mentalmente, la formua se muestra en la parte de arriba, el codigo es el siguiente. 
+Solucion. Insertamos un numero cualquiera, en este caso se eligio 5 ya que es el mas facil de comprobar y calcularlo mentalmente, la formua se muestra en la parte de arriba, el codigo es el siguiente. https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej7.py
 <img src="Ej6 Ticket.png" />
 
 Programa No.8
