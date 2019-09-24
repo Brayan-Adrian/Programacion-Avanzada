@@ -85,7 +85,7 @@ https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej6%20Ticket.
 Y tambien lo podemos ver en la siguiente imagen.
 <img src="Ej6 Ticket.png" />
 
-Programa No.9
+### Programa No.9
 Un vendedor de una pagina de abarrotes en linea vende dos tipos de cajas de cereal. CornFlakes de 750gr y Trix de 500gr. Escriba un programa que lea el numero de cajas de CornFlakes y cajas de Trix, cuyo valor debe ser introducido por el usuario. Despues, su programa debe calcular y mostrar el total del peso (en kilogramos).
 
 Solucion. Empezamos agregando las constantes T, y C de las cajas ya que son los gramos que pesa cada una, y las multiplicamos por las variables que van hacer el numero que el usuario introducira.
@@ -93,7 +93,7 @@ Hacemos una variable que haga la operacion de sumar los gramos por las cajas a i
 Y tambien lo podemos ver en la siguiente imagen.
 <img src="Ej8 Peso de Cajas.png" />
 
-Programa de tarea No.10 Aritmetica
+### Programa de tarea No.10 Aritmetica
 Cree un programa que lea dos valores enteros, a y b, introducidos por el usuario. Su programa debe desplegar la suma de a y b 
 La diferencia cuando a es sustraido de b 
 El cociente cuando a divide a b
