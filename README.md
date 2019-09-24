@@ -34,13 +34,13 @@ Python es un lenguaje que con su sintaxis simple, clara y sencilla puede automat
 
 Para poder programar en python es necesario instalar su programa lo cual es muy facil solo hay que ir a la pagina ANACONDA PYTHON y descargar la  version  3.7 para 64 bits es de gran importancia señalar el sistema  en el cual lo vamos a trabajar, ya instalado el programa procederemos a la programacion y para ello en el buscador del sistema indicamos la palabra spyder ya que este es el programa donde haremos todos nuestros programas.
 
-Programa No.1 
+### Programa No.1 
 El comando print imprime un mensaje en la pantalla o en otro dispositivo de salida. El mansaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres. 
 El comando del programa es el siguiente: https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej1%20Cual%20es%20tu%20nombe.py
 Y tambien lo podemos ver en la siguinete imagen.
 <img src="1 py.png" />
 
-Programa No.2
+### Programa No.2
 El comando print imprime un mensaje en la pantalla o en otro dispositivo de salida. El mansaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres. 
 El comando input permite al usuario introducir informacion utilizando el teclado la variable donde se guarda dicha informacion es de tipo string o cadena de caracteres.
 El comando int convierte a tipo entero.
@@ -49,20 +49,20 @@ El comando del programa es el siguiente:https://github.com/Brayan-Adrian/Program
 Y tambien lo podemos ver en la siguinete imagen.
 <img src="Ej2 Nombre, Estatura, Edad.png" /> 
 
-Programa No.3
+### Programa No.3
 Escribe un programa que desplieje su nombre y su direccion de tal manera que pueda escribir en un sobre de correo , su programa no tiene que leerningun dato de entrada por el usuario.
 En este programa solo se utilizara el comando print ya que solo requiere que imprima el mensaje en el sobre de la carta, a continuacion se presenta el codigo programado de lado izquiero y del lado derecho la compilacion.
 <img src="1 py.png" />
 
-Programa No.4
+### Programa No.4
 Escriba un programa que le pregunte al usuario el largo y el anchode una habitacion. Una vez que los valore han sido leidos su programa debe calcular y desplegar el area de la habitacion. El largo y el ancho debe de ser introducido con punto flotante (decimal) Incluya las unidades metros en su mensaje de estrada y de salida.
 <img src="2 py.png" />
 
-Programa No.5
+### Programa No.5
 Crea un programa que lea el largo y ancho de un campo de cultivo, introducido por el usuario y despliege el area del campo en acres
 <img src="3 py.png" />
 
-Ejercicio de tarea No.6
+### Programa de tarea No.6
 
 En muchos establecimientos, se agrega un pequeño depósito a los envases de bebidas para alentar a las personas a reciclarlos. En una jurisdicción en particular, los envases de bebidas con un litro o menos tienen un depósito de $0.10, y los envases de bebidas con más de un litro tienen un depósito de $ 0.25.
 Escriba un programa que lea el número de contenedores de cada tamaño del usuario. Su programa debe continuar calculando y mostrando el reembolso que se recibirá por devolver esos contenedores. Formatee la salida para que incluya un signo de dólar y siempre muestre exactamente dos decimales.
@@ -71,13 +71,13 @@ Solucion: hay que resaltar que solo nos estan pidiendo dos decimales para eso se
 Y tambien lo podemos ver en la siguinete imagen.
 <img src="Ej2Tarea.png" />
 
-Programa No.7
+### Programa No.7
 Escriba un programa que lea un numero positivo (n), insertado por el usuario y despues despliege la suma de todos los enteros desde 1 hasta n. La suma de los primeros enteros n positivos puede ser calculado usando la formula suma=(n)(n+1)
 
 Solucion. Insertamos un numero cualquiera, en este caso se eligio 5 ya que es el mas facil de comprobar y calcularlo mentalmente, la formua se muestra en la parte de arriba, el codigo es el siguiente. https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej7.py
 <img src="Ej7 inserta un numero positivo.png" />
 
-Programa No.8
+### Programa No.8
 Hacer un programa en el que el usuario introduzca el nombre de la comida que ordeno en un restaurante y su precio despues su programa debe calcular el subtotal, el iva y la propina, de toda la cuenta la salida del programa debe parecerse a un ticket de restaurante. Use un iva de 16% y una propina del 15% del subtotal. Los valores numericos deben tener dos decimales.
 
 Solucion. Para poder llegar al objetivo de lo indicado pondremos el nombre y el valor de 5 comidas, con el comando print seguido de str haremos el nombre de la comida y con el valor de la comida de igual forma el comando print seguido del comando int. crearemos las varibles Subtotal, IVA, Propina para poderlas sumar y muestre al final el monto total, el codigo es el siguiente.
@@ -104,13 +104,13 @@ El resultado de a a la potencia b
 Solucion. Un tip a utilizar es mandando a llamar la libreria Math la cual no ubicaremos en la parte de abajo de la plataforma spyder y pondremos import math seguido de comando enter para que nos despliege la lista de funciones matematicas, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Aritmetica.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="Aritmeticaa.png" />
 
-Programa de tarea No.11 Eficiencia de combustible
+### Programa de tarea No.11 Eficiencia de combustible
 En los Estados Unidos, la eficiencia del combustible para vehículos se expresa normalmente en millas por galón (MPG). En México, la eficiencia del combustible normalmente se expresa en litros por cien kilómetros (L / 100km). Usa tus habilidades de investigación para determinar cómo convertir de MPG a L / 100km. Luego, cree un programa que lea un valor del usuario en unidades estadounidenses y muestre la eficiencia de combustible equivalente en unidades mexicanas.
 
 Solucion para poder convertir de MPG a L/100km es hacer la siguiente conversion multiplicar el numero introducido por 1.609 millas y despues dividirlo entre 3.78 que es lo que equivale a un galon, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%20Tarea%202%20Eficiencia%20conbustible.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="Eficiencia de combustible.png" />
 
-Programa No.12 Distancia entre dos puntos de la tierra.
+### Programa No.12 Distancia entre dos puntos de la tierra.
 
 La superficie de la tierra es cuerva y la distancia entre grados de longitud varia con la latitud.
 Como resultado, encontrar la distancia entre dos puntos de la superficie de la tierra es mas complicado que usar el teorema de pitagoras
