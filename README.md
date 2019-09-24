@@ -121,7 +121,7 @@ distancia=6371.01*arccos(sen(t1)*sen(t2)+cos(t1)*cos(t2)*cos(g1-g2))
 Cree un programa que le permita al usuario introducir la latitud y longitud de dos puntos de la tierra en grados su programa debe pesplejar la distancia entre esos puntos, en kilometros. Tenga en cuenta que las funciones trigonometricas en python trabajan en radianes, por lo que debe de convertir el valor introducido por el usuario en grados a radianes antes de utilizar la formula. El modulo math contiene el comando radians, que cambia de grados a radianes.
 
 Solucion. Para poder realizar el siguiente ejercicio importaremos la libreria math a la plataforma donde se este programando, introduciremos las variables t1, t2, g1 y g2 ya que son las coordenadas de latitud y longitud de la formula que se muestra en la parte de arriba en la descripcion del ejercicio, despues introduciremos otras variables de lat1, lat2, log1 y log2 pero esta ya con la formula predeterminada para convertir de grados a radianessustituimos las variable de la operacion en la variable formula para despues mandarlos a llamar en la inpresion print, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej12%20latitud%20y%20longitud.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="Eficiencia de combustible.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="ej12 latitud y longitud.png" />
 
 
 
