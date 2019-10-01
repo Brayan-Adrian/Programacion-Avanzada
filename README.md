@@ -123,6 +123,35 @@ Cree un programa que le permita al usuario introducir la latitud y longitud de d
 Solucion. Para poder realizar el siguiente ejercicio importaremos la libreria math a la plataforma donde se este programando, introduciremos las variables t1, t2, g1 y g2 ya que son las coordenadas de latitud y longitud de la formula que se muestra en la parte de arriba en la descripcion del ejercicio, despues introduciremos otras variables de lat1, lat2, log1 y log2 pero esta ya con la formula predeterminada para convertir de grados a radianessustituimos las variable de la operacion en la variable formula para despues mandarlos a llamar en la inpresion print, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej12%20latitud%20y%20longitud.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="ej12 latitud y longitud.png" />
 
+### Programa No.20 Ley de los gases ideales.
+La ley de los gases ideales es una aproximación matemática del comportamiento de los gases como cambio de presión, volumen y temperatura. Por lo general, se indica como:
+### PV = nRT
+donde P es la presión en Pascales, V es el volumen en litros, n es la cantidad de sustancia en moles, R es la constante de gas ideal, igual a 8.314 J/mol K, y T es el temperatura en grados Kelvin.
+Escriba un programa que calcule la cantidad de gas en moles cuando el usuario suministra. La presión, el volumen y la temperatura. Prueba tu programa determinando el número de moles de gas en un tanque de buceo. Un tanque de buceo típico contiene 12 litros de gas a una presión de 20,000,000 Pascales (aproximadamente 3,000 PSI). La temperatura ambiente es aproximadamente 20 grados Celsius o 68 grados Fahrenheit. 
+
+### Programa No.21 Area de un triangulo.
+El área de un triángulo se puede calcular usando la siguiente fórmula, donde b es la longitud de la base del triángulo, y h es su altura:
+### área =(b × h)/2
+Escriba un programa que permita al usuario ingresar valores para b y h. El programa luego debe calcular y mostrar el área de un triángulo con longitud base b y altura h.
+
+### Programa No.22 Area de un triangulo (Again).
+En el ejercicio anterior, creó un programa que calculaba el área de un triángulo cuando se conocía la longitud de su base y su altura. También es posible calcular el área de un triángulo cuando se conocen las longitudes de los tres lados. Deje s1, s2 y s3
+ser la longitud de los lados. Sea s = (s1 + s2 + s3) / 2. 
+Entonces el área del triángulo se puede calcular usando la siguiente fórmula: área = sqrt s × (s - s1) × (s - s2) × (s - s3)
+Desarrolle un programa que lea las longitudes de los lados de un triángulo del usuario y
+Muestra su área.
+
+### Programa No.23 Area de un poligono regular.
+Un polígono es regular si sus lados tienen la misma longitud y los ángulos entre todos
+Los lados adyacentes son iguales. El área de un polígono regular se puede calcular usando la siguiente fórmula, donde s es la longitud de un lado n es el número de lados:
+
+### área = (n*(s**2))/(4*(tan(π/n)))
+
+Escriba un programa que lea s y n del usuario y luego muestre el área de un polígono regular construido a partir de estos valores.
+
+
+
+
 
 
 
