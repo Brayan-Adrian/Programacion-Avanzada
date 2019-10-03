@@ -135,8 +135,23 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="12.png" />
 Muchas personas piensan en su altura en pies y pulgadas, incluso en algunos países que utiliza principalmente el sistema métrico. Escriba un programa que lea un número de pies de el usuario, seguido de varias pulgadas. Una vez que se leen estos valores, su programa
 debe calcular y mostrar el número equivalente de centímetros.
 
-Solucion. El siguiente ejercicio se basa principalmente en que el usuario introduzca su altura en pies y pulgadas con un print con su respectiva variable, para ello debemos de saber que 1ft=30.48cm y 1in=2.54cm para poder hacer la conversion, el codigo es el siguiente.
+Solucion. El siguiente ejercicio se basa principalmente en que el usuario introduzca su altura en pies y pulgadas con un print con su respectiva variable, para ello debemos de saber que 1ft=30.48cm y 1in=2.54cm para poder hacer la conversion, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa14.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="14.png" />
+
+
+### Programa No. 15 Unidades de distancia.
+
+En este ejercicio, creará un programa que comienza leyendo una medida en pies del usuario. Entonces su programa debe mostrar la distancia equivalente en pulgadas, yardas y millas. Use Internet para buscar los factores de conversión necesarios si no los tienes memorizados.
+
+Solucion. Como vimos el ejercicio anterior necesitamos buscar a cuanto equivalen 1 pulgada en pies, 1 yarda en pies y 1 milla en pies a continuacion se presentan la quivalencia de cada una.
+1in=0.83ft
+1yarda=3ft
+1milla=5280
+el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa14.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="14.png" />
+
+
+
 
 
 
