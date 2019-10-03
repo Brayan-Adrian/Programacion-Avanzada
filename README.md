@@ -157,7 +157,7 @@ Escriba un programa que comience leyendo un radio, r, del usuario. El programa c
 Solucion. Para poder desarrollar el siguiente programa le pidiremos alusiario que introduzca el radio para despues mandar llamar la libreria math y hacia poder calcular las constantes como pi la formula para calcular el area y el volumen son las siguientes.
 area = π*r**2.
 volume = 4/3πr**3.
-el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa14.py
+el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa16.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="15.png" />
 
 
