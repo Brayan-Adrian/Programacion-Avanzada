@@ -158,7 +158,7 @@ Solucion. Para poder desarrollar el siguiente programa le pidiremos alusiario qu
 area = π*r**2.
 volume = 4/3πr**3.
 el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa16.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="15.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="16.png" />
 
 
 
