@@ -148,7 +148,7 @@ Solucion. Como vimos el ejercicio anterior necesitamos buscar a cuanto equivalen
 1yarda=3ft
 1milla=5280
 el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa14.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="14.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="15.png" />
 
 
 
