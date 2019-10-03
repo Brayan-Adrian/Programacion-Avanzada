@@ -136,7 +136,7 @@ Muchas personas piensan en su altura en pies y pulgadas, incluso en algunos paí
 debe calcular y mostrar el número equivalente de centímetros.
 
 Solucion. El siguiente ejercicio se basa principalmente en que el usuario introduzca su altura en pies y pulgadas con un print con su respectiva variable, para ello debemos de saber que 1ft=30.48cm y 1in=2.54cm para poder hacer la conversion, el codigo es el siguiente.
-Y tambien lo podemos ver en la siguiente imagen.<img src="12.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="14.png" />
 
 
 
