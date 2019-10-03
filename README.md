@@ -120,8 +120,20 @@ distancia=6371.01*arccos(sen(t1)*sen(t2)+cos(t1)*cos(t2)*cos(g1-g2))
 
 Cree un programa que le permita al usuario introducir la latitud y longitud de dos puntos de la tierra en grados su programa debe pesplejar la distancia entre esos puntos, en kilometros. Tenga en cuenta que las funciones trigonometricas en python trabajan en radianes, por lo que debe de convertir el valor introducido por el usuario en grados a radianes antes de utilizar la formula. El modulo math contiene el comando radians, que cambia de grados a radianes.
 
-Solucion. Para poder realizar el siguiente ejercicio importaremos la libreria math a la plataforma donde se este programando, introduciremos las variables t1, t2, g1 y g2 ya que son las coordenadas de latitud y longitud de la formula que se muestra en la parte de arriba en la descripcion del ejercicio, despues introduciremos otras variables de lat1, lat2, log1 y log2 pero esta ya con la formula predeterminada para convertir de grados a radianessustituimos las variable de la operacion en la variable formula para despues mandarlos a llamar en la inpresion print, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej12%20latitud%20y%20longitud.py
+Solucion. Para poder realizar el siguiente ejercicio importaremos la libreria math a la plataforma donde se este programando, introduciremos las variables t1, t2, g1 y g2 ya que son las coordenadas de latitud y longitud de la formula que se muestra en la parte de arriba en la descripcion del ejercicio, despues introduciremos otras variables de lat1, lat2, log1 y log2 pero esta ya con la formula predeterminada para convertir de grados a radianes, sustituimos las variable de la operacion en la variable formula para despues mandarlos a llamar en la inpresion print, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej12%20latitud%20y%20longitud.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="ej12 latitud y longitud.png" />
+
+### Programa No.13 Distancia entre dos puntos de la tierra.
+
+Considere el software que se ejecuta en una máquina de autopago. Una tarea que debe ser capaz de realizar es determinar cuánto cambio proporcionar cuando el comprador paga para una compra en efectiv.o Escriba un programa que comience leyendo una cantidad de centavos del usuario como entero. Luego, su programa debe calcular y mostrar las denominaciones de monedas que deberían usarse para dar esa cantidad de cambio al comprador. El cambio debe administrarse utilizando la menor cantidad de monedas posible. Suponga que la máquina está cargada con centavos, monedas de cinco centavos, monedas de diez centavos, cuartos, locos y toonies.
+
+Solucion Para poder realizar el siguiente programa metemos cual es el valor de Toonie=200, Loonie=100, quarter=25, dime=10, nickel=5 como constantes para poder dividir el valor de los centavos introducidos por el usuario y que este de los centavos de la cantidad que se introducira, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej12%20latitud%20y%20longitud.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="ej12 latitud y longitud.png" />
+
+
+
+
+
 
 ### Programa No.20 Ley de los gases ideales.
 La ley de los gases ideales es una aproximación matemática del comportamiento de los gases como cambio de presión, volumen y temperatura. Por lo general, se indica como:
