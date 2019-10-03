@@ -127,7 +127,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="ej12 latitud y longitu
 
 Considere el software que se ejecuta en una máquina de autopago. Una tarea que debe ser capaz de realizar es determinar cuánto cambio proporcionar cuando el comprador paga para una compra en efectiv.o Escriba un programa que comience leyendo una cantidad de centavos del usuario como entero. Luego, su programa debe calcular y mostrar las denominaciones de monedas que deberían usarse para dar esa cantidad de cambio al comprador. El cambio debe administrarse utilizando la menor cantidad de monedas posible. Suponga que la máquina está cargada con centavos, monedas de cinco centavos, monedas de diez centavos, cuartos, locos y toonies.
 
-Solucion Para poder realizar el siguiente programa metemos cual es el valor de Toonie=200, Loonie=100, quarter=25, dime=10, nickel=5 como constantes para poder dividir el valor de los centavos introducidos por el usuario y que este de los centavos de la cantidad que se introducira, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej12%20latitud%20y%20longitud.py
+Solucion Para poder realizar el siguiente programa metemos cual es el valor de Toonie=200, Loonie=100, quarter=25, dime=10, nickel=5 como constantes para poder dividir el valor de los centavos introducidos por el usuario y que este de los centavos de la cantidad que se introducira, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/12.png
 Y tambien lo podemos ver en la siguiente imagen.<img src="ej12 latitud y longitud.png" />
 
 
