@@ -139,7 +139,7 @@ Solucion. El siguiente ejercicio se basa principalmente en que el usuario introd
 Y tambien lo podemos ver en la siguiente imagen.<img src="14.png" />
 
 
-### Programa No. 15 Unidades de distancia.
+### Programa No.15 Unidades de distancia.
 
 En este ejercicio, creará un programa que comienza leyendo una medida en pies del usuario. Entonces su programa debe mostrar la distancia equivalente en pulgadas, yardas y millas. Use Internet para buscar los factores de conversión necesarios si no los tienes memorizados.
 
@@ -149,6 +149,17 @@ Solucion. Como vimos el ejercicio anterior necesitamos buscar a cuanto equivalen
 1milla=5280
 el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa14.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="15.png" />
+
+### Programa No.16 Area y Volumen 
+
+Escriba un programa que comience leyendo un radio, r, del usuario. El programa continúe calculando y mostrando el área de un círculo con radio r y el volumen de una esfera con radio r. Use la constante pi en el módulo matemático en su cálculo.
+
+Solucion. Para poder desarrollar el siguiente programa le pidiremos alusiario que introduzca el radio para despues mandar llamar la libreria math y hacia poder calcular las constantes como pi la formula para calcular el area y el volumen son las siguientes.
+area = π*r**2.
+volume = 4/3πr**3.
+el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa14.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="15.png" />
+
 
 
 
