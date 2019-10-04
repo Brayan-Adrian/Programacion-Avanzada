@@ -200,9 +200,7 @@ El área de un triángulo se puede calcular usando la siguiente fórmula, donde 
 ### área =(b × h)/2
 Escriba un programa que permita al usuario ingresar valores para b y h. El programa luego debe calcular y mostrar el área de un triángulo con longitud base b y altura h.
 Solucion Meteremos los datos del usuario como numeros enteros para las medidad del triangulo, no es necesario llamar la libreriaa math ya que es una operacion sencilla, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2020%20Gas%20ideal.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="21.pngg" />
-
-
+Y tambien lo podemos ver en la siguiente imagen.<img src="21.png" />
 
 ### Programa No.22 Area de un triangulo (Again).
 En el ejercicio anterior, creó un programa que calculaba el área de un triángulo cuando se conocía la longitud de su base y su altura. También es posible calcular el área de un triángulo cuando se conocen las longitudes de los tres lados. Deje s1, s2 y s3
