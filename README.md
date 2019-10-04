@@ -174,9 +174,17 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="17.png" />
 ### Programa No.18 Volumen de un cilindro
 El volumen de un cilindro se puede calcular multiplicando el área de su circular base por su altura. Escriba un programa que lea el radio del cilindro, junto con su altura, desde el usuario y calcula su volumen. Mostrar el resultado redondeado a uno decimal.
 
-Solucion. importaremos la libreria math para poder utilizar pi para asi poder multiplicarlo por el radio. Las variables ingresadas por el usuario deben de ir con un float ya que el usuario puede meter decimales, el codigo es el siguiente.
+Solucion. importaremos la libreria math para poder utilizar pi para asi poder multiplicarlo por el radio. Las variables ingresadas por el usuario deben de ir con un float ya que el usuario puede meter decimales, el codigo es el siguiente,https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa18.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="18.png" />
 
+### Programa No.19 Caida Libre
+Cree un programa que determine qué tan rápido viaja un objeto cuando golpea el suelo. El usuario ingresará la altura desde la cual se cae el objeto en metros (m). Debido a que el objeto se cae, su velocidad inicial es de 0 m / s. Supongamos que la aceleración debido a la gravedad es de 9.8m / s2. Puedes usar la fórmula 
+
+### vf = squrt vi+2ad 
+para calcular la velocidad final, vf, cuando se conoce la velocidad inicial, vi, aceleración, a y distancia, d.
+
+Solucion, Empezaremos importando la libreria math ya que con esta podremos indicar la raiz de la operacion y determinaremos las constantes de la gravedad y de la velocidad inicial ya que parte del reposo, el codigo es el siguiente,https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa18.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="18.png" />
 
 
 
@@ -209,6 +217,8 @@ Los lados adyacentes son iguales. El área de un polígono regular se puede calc
 ### área = (n*(s**2))/(4*(tan(π/n)))
 
 Escriba un programa que lea s y n del usuario y luego muestre el área de un polígono regular construido a partir de estos valores.
+
+Solucion.
 
 
 
