@@ -220,7 +220,7 @@ Los lados adyacentes son iguales. El área de un polígono regular se puede calc
 
 Escriba un programa que lea s y n del usuario y luego muestre el área de un polígono regular construido a partir de estos valores.
 
-Solucion. Manejaremos la libreria math ya que el numero pi y tan antes de escribirlo debemos de declararlos con la libreria como se muestra a continuacion math.pi y math.tan podemos tambien declarar pi como una constante, 
+Solucion. Manejaremos la libreria math ya que el numero pi y tan antes de escribirlo debemos de declararlos con la libreria como se muestra a continuacion math.pi y math.tan podemos tambien declarar pi como una constante, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2023%20Poligono%20regular.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="23.png" />
 
 
