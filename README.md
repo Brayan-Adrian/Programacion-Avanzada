@@ -193,7 +193,7 @@ donde P es la presión en Pascales, V es el volumen en litros, n es la cantidad 
 Escriba un programa que calcule la cantidad de gas en moles cuando el usuario suministra. La presión, el volumen y la temperatura. Prueba tu programa determinando el número de moles de gas en un tanque de buceo. Un tanque de buceo típico contiene 12 litros de gas a una presión de 20,000,000 Pascales (aproximadamente 3,000 PSI). La temperatura ambiente es aproximadamente 20 grados Celsius o 68 grados Fahrenheit. 
 
 Solucion. Lo principal a desarrolar es el despeje de n en la formula de los gases ideales no es necesario llamar la libreria math ya que es una operacion sencilla, las otras costantes ya estan dadas como la temperatura la presion etc, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2020%20Gas%20ideal.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="19.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="20.png" />
 
 ### Programa No.21 Area de un triangulo.
 El área de un triángulo se puede calcular usando la siguiente fórmula, donde b es la longitud de la base del triángulo, y h es su altura:
