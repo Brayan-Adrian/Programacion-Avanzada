@@ -208,6 +208,9 @@ ser la longitud de los lados. Sea s = (s1 + s2 + s3) / 2.
 Entonces el área del triángulo se puede calcular usando la siguiente fórmula: área = sqrt s × (s - s1) × (s - s2) × (s - s3)
 Desarrolle un programa que lea las longitudes de los lados de un triángulo del usuario y
 Muestra su área.
+Solucion. En este caso es necesario llamar a la libreria math ya que utilizaremos la raiz para sacar el area del triangulo, y despues poner las variables de S1, S2 Y S3 estas las introduciremos como enteros, antes de poner la formula es necesario resaltar que antes de sqrt va la libreria math de la siguiente manera math.sqrt, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2020%20Gas%20ideal.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="21.png" />
+
 
 ### Programa No.23 Area de un poligono regular.
 Un polígono es regular si sus lados tienen la misma longitud y los ángulos entre todos
