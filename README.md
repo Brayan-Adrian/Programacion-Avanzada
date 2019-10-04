@@ -174,8 +174,8 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="17.png" />
 ### Programa No.18 Volumen de un cilindro
 El volumen de un cilindro se puede calcular multiplicando el área de su circular base por su altura. Escriba un programa que lea el radio del cilindro, junto con su altura, desde el usuario y calcula su volumen. Mostrar el resultado redondeado a uno decimal.
 
-Solucion. importaremos la libreria math para poder utilizar pi para asi poder multiplicarlo por el radio. Las variables ingresadas por el usuario deben de ir con un float ya que el usuario puede meter decimales, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa17.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="17.png" />
+Solucion. importaremos la libreria math para poder utilizar pi para asi poder multiplicarlo por el radio. Las variables ingresadas por el usuario deben de ir con un float ya que el usuario puede meter decimales, el codigo es el siguiente.
+Y tambien lo podemos ver en la siguiente imagen.<img src="18.png" />
 
 
 
