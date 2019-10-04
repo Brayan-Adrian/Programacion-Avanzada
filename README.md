@@ -160,9 +160,17 @@ volume = 4/3πr**3.
 el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa16.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="16.png" />
 
+### Programa No.17 Capacidad calorífica
+La cantidad de energía requerida para aumentar la temperatura de un gramo de material. en un grado Celsius es la capacidad de calor específica del material, C. La cantidad total de energía requerida para elevar m gramos de un material en ΔT grados Celsius puede ser calculado usando la fórmula:
 
+### q=m*C*(t2-t1)
 
+Extienda su programa para que también calcule el costo de calentar el agua. Electricidad normalmente se factura utilizando unidades de kilovatios hora en lugar de julios. En este ejercicio, debe suponer que la electricidad cuesta 8,9 centavos por kilovatio-hora. Utilizar
+su programa para calcular el costo de hervir agua por una taza de café.
 
+Solucion. Para darle solucion al ejercicioes necesario conocer la capacidad calorífica específica del agua la cual es 4.186 J/g◦C. Porque el agua tiene una densidad de 1.0 gramo por mililitro, hay que tambien tomar encuenta que necesitamos un exponencial la cual llamaremos con la la libreria math y las varibles de volumen y temperatura la pondremos con un float ya que lo que introducira el usuario vendra en decimales.
+el codigo es el siguiente.
+Y tambien lo podemos ver en la siguiente imagen.<img src="16.png" />
 
 
 
