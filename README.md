@@ -209,7 +209,7 @@ Entonces el área del triángulo se puede calcular usando la siguiente fórmula:
 Desarrolle un programa que lea las longitudes de los lados de un triángulo del usuario y
 Muestra su área.
 Solucion. En este caso es necesario llamar a la libreria math ya que utilizaremos la raiz para sacar el area del triangulo, y despues poner las variables de S1, S2 Y S3 estas las introduciremos como enteros, antes de poner la formula es necesario resaltar que antes de sqrt va la libreria math de la siguiente manera math.sqrt, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej.%2022%20Area%20del%20triangulo.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="22.1.png" />
 
 
 ### Programa No.23 Area de un poligono regular.
@@ -220,7 +220,9 @@ Los lados adyacentes son iguales. El área de un polígono regular se puede calc
 
 Escriba un programa que lea s y n del usuario y luego muestre el área de un polígono regular construido a partir de estos valores.
 
-Solucion.
+Solucion. Manejaremos la libreria math ya que el numero pi y tan antes de escribirlo debemos de declararlos con la libreria como se muestra a continuacion math.pi y math.tan podemos tambien declarar pi como una constante, 
+Y tambien lo podemos ver en la siguiente imagen.<img src="22.1.png" />
+
 
 
 
