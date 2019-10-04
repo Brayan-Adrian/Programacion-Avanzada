@@ -184,7 +184,7 @@ Cree un programa que determine qué tan rápido viaja un objeto cuando golpea el
 para calcular la velocidad final, vf, cuando se conoce la velocidad inicial, vi, aceleración, a y distancia, d.
 
 Solucion, Empezaremos importando la libreria math ya que con esta podremos indicar la raiz de la operacion y determinaremos las constantes de la gravedad y de la velocidad inicial ya que parte del reposo, el codigo es el siguiente,https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa18.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="18.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="19.png" />
 
 
 
