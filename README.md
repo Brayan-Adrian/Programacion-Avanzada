@@ -168,9 +168,15 @@ La cantidad de energía requerida para aumentar la temperatura de un gramo de ma
 Extienda su programa para que también calcule el costo de calentar el agua. Electricidad normalmente se factura utilizando unidades de kilovatios hora en lugar de julios. En este ejercicio, debe suponer que la electricidad cuesta 8,9 centavos por kilovatio-hora. Utilizar
 su programa para calcular el costo de hervir agua por una taza de café.
 
-Solucion. Para darle solucion al ejercicioes necesario conocer la capacidad calorífica específica del agua la cual es 4.186 J/g◦C. Porque el agua tiene una densidad de 1.0 gramo por mililitro, hay que tambien tomar encuenta que necesitamos un exponencial la cual llamaremos con la la libreria math y las varibles de volumen y temperatura la pondremos con un float ya que lo que introducira el usuario vendra en decimales.
-el codigo es el siguiente.
+Solucion. Para darle solucion al ejercicioes necesario conocer la capacidad calorífica específica del agua la cual es 4.186 J/g◦C. Porque el agua tiene una densidad de 1.0 gramo por mililitro, hay que tambien tomar encuenta que necesitamos un exponencial la cual llamaremos con la la libreria math y las varibles de volumen y temperatura la pondremos con un float ya que lo que introducira el usuario vendra en decimales, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa17.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="17.png" />
+
+### Programa No.18 Volumen de un cilindro
+El volumen de un cilindro se puede calcular multiplicando el área de su circular base por su altura. Escriba un programa que lea el radio del cilindro, junto con su altura, desde el usuario y calcula su volumen. Mostrar el resultado redondeado a uno decimal.
+
+Solucion. importaremos la libreria math para poder utilizar pi para asi poder multiplicarlo por el radio. Las variables ingresadas por el usuario deben de ir con un float ya que el usuario puede meter decimales, el codigo es el siguiente.https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa17.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="17.png" />
+
 
 
 
