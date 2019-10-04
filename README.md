@@ -192,7 +192,7 @@ La ley de los gases ideales es una aproximación matemática del comportamiento 
 donde P es la presión en Pascales, V es el volumen en litros, n es la cantidad de sustancia en moles, R es la constante de gas ideal, igual a 8.314 J/mol K, y T es el temperatura en grados Kelvin.
 Escriba un programa que calcule la cantidad de gas en moles cuando el usuario suministra. La presión, el volumen y la temperatura. Prueba tu programa determinando el número de moles de gas en un tanque de buceo. Un tanque de buceo típico contiene 12 litros de gas a una presión de 20,000,000 Pascales (aproximadamente 3,000 PSI). La temperatura ambiente es aproximadamente 20 grados Celsius o 68 grados Fahrenheit. 
 
-Solucion. Lo principal a desarrolar es el despeje de n en la formula de los gases ideales no es necesario llamar la libreria math ya que es una operacion sencilla, las otras costantes ya estan dadas como la temperatura la presion etc,https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa19.py
+Solucion. Lo principal a desarrolar es el despeje de n en la formula de los gases ideales no es necesario llamar la libreria math ya que es una operacion sencilla, las otras costantes ya estan dadas como la temperatura la presion etc, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2020%20Gas%20ideal.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="19.png" />
 
 ### Programa No.21 Area de un triangulo.
