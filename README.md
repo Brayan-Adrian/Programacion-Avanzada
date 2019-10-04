@@ -170,7 +170,7 @@ su programa para calcular el costo de hervir agua por una taza de café.
 
 Solucion. Para darle solucion al ejercicioes necesario conocer la capacidad calorífica específica del agua la cual es 4.186 J/g◦C. Porque el agua tiene una densidad de 1.0 gramo por mililitro, hay que tambien tomar encuenta que necesitamos un exponencial la cual llamaremos con la la libreria math y las varibles de volumen y temperatura la pondremos con un float ya que lo que introducira el usuario vendra en decimales.
 el codigo es el siguiente.
-Y tambien lo podemos ver en la siguiente imagen.<img src="16.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="17.png" />
 
 
 
