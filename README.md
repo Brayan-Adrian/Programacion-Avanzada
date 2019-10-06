@@ -228,7 +228,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="23.png" />
 Cree un programa que lea una duración del usuario como un número de días, horas, minutos y segundos. Calcule y muestre el número total de segundos representados por esta duración.
 
 Solucion. Pondremos unas variables llamadas dias, horas, minutos y segundos que el usuario introducira despues declararemos las la operacion de tal manera que nos convierta los dias horas minutos en segundos y los segundos que introduzca el usuario solo se sumen con la operacion indicada, tomemos como dato que un dia tiene 86400 segundos, una hora 3600 segundos y un minuto tiene 60 segundos, al final lo sumamos creando una variable llamada total para imprimir solo los segundos, el codigo es el siguiente,https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa19.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="19.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="24.png" />
 
 
 
