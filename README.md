@@ -199,7 +199,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="20.png" />
 El área de un triángulo se puede calcular usando la siguiente fórmula, donde b es la longitud de la base del triángulo, y h es su altura:
 ### área =(b × h)/2
 Escriba un programa que permita al usuario ingresar valores para b y h. El programa luego debe calcular y mostrar el área de un triángulo con longitud base b y altura h.
-Solucion Meteremos los datos del usuario como numeros enteros para las medidad del triangulo, no es necesario llamar la libreriaa math ya que es una operacion sencilla, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2020%20Gas%20ideal.py
+Solucion Meteremos los datos del usuario como numeros enteros para las medidad del triangulo, no es necesario llamar la libreria math ya que es una operacion sencilla, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2020%20Gas%20ideal.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="21.png" />
 
 ### Programa No.22 Area de un triangulo (Again).
@@ -222,6 +222,13 @@ Escriba un programa que lea s y n del usuario y luego muestre el área de un pol
 
 Solucion. Manejaremos la libreria math ya que el numero pi y tan antes de escribirlo debemos de declararlos con la libreria como se muestra a continuacion math.pi y math.tan podemos tambien declarar pi como una constante, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2023%20Poligono%20regular.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="23.png" />
+
+### Programa No.24 Unidades de tiempo.
+
+Cree un programa que lea una duración del usuario como un número de días, horas, minutos y segundos. Calcule y muestre el número total de segundos representados por esta duración.
+
+Solucion. Pondremos unas variables llamadas dias, horas, minutos y segundos que el usuario introducira despues declararemos las la operacion de tal manera que nos convierta los dias horas minutos en segundos y los segundos que introduzca el usuario solo se sumen con la operacion indicada, tomemos como dato que un dia tiene 86400 segundos, una hora 3600 segundos y un minuto tiene 60 segundos, al final lo sumamos creando una variable llamada total para imprimir solo los segundos, el codigo es el siguiente,https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa19.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="19.png" />
 
 
 
