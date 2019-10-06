@@ -172,12 +172,14 @@ Solucion. Para darle solucion al ejercicioes necesario conocer la capacidad calo
 Y tambien lo podemos ver en la siguiente imagen.<img src="17.png" />
 
 ### Programa No.18 Volumen de un cilindro
+
 El volumen de un cilindro se puede calcular multiplicando el área de su circular base por su altura. Escriba un programa que lea el radio del cilindro, junto con su altura, desde el usuario y calcula su volumen. Mostrar el resultado redondeado a uno decimal.
 
 Solucion. importaremos la libreria math para poder utilizar pi para asi poder multiplicarlo por el radio. Las variables ingresadas por el usuario deben de ir con un float ya que el usuario puede meter decimales, el codigo es el siguiente,https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa18.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="18.png" />
 
 ### Programa No.19 Caida Libre
+
 Cree un programa que determine qué tan rápido viaja un objeto cuando golpea el suelo. El usuario ingresará la altura desde la cual se cae el objeto en metros (m). Debido a que el objeto se cae, su velocidad inicial es de 0 m / s. Supongamos que la aceleración debido a la gravedad es de 9.8m / s2. Puedes usar la fórmula 
 
 ### vf = squrt vi+2ad 
@@ -187,6 +189,7 @@ Solucion, Empezaremos importando la libreria math ya que con esta podremos indic
 Y tambien lo podemos ver en la siguiente imagen.<img src="19.png" />
 
 ### Programa No.20 Ley de los gases ideales.
+
 La ley de los gases ideales es una aproximación matemática del comportamiento de los gases como cambio de presión, volumen y temperatura. Por lo general, se indica como:
 ### PV = nRT
 donde P es la presión en Pascales, V es el volumen en litros, n es la cantidad de sustancia en moles, R es la constante de gas ideal, igual a 8.314 J/mol K, y T es el temperatura en grados Kelvin.
@@ -196,6 +199,7 @@ Solucion. Lo principal a desarrolar es el despeje de n en la formula de los gase
 Y tambien lo podemos ver en la siguiente imagen.<img src="20.png" />
 
 ### Programa No.21 Area de un triangulo.
+
 El área de un triángulo se puede calcular usando la siguiente fórmula, donde b es la longitud de la base del triángulo, y h es su altura:
 ### área =(b × h)/2
 Escriba un programa que permita al usuario ingresar valores para b y h. El programa luego debe calcular y mostrar el área de un triángulo con longitud base b y altura h.
@@ -203,6 +207,7 @@ Solucion Meteremos los datos del usuario como numeros enteros para las medidad d
 Y tambien lo podemos ver en la siguiente imagen.<img src="21.png" />
 
 ### Programa No.22 Area de un triangulo (Again).
+
 En el ejercicio anterior, creó un programa que calculaba el área de un triángulo cuando se conocía la longitud de su base y su altura. También es posible calcular el área de un triángulo cuando se conocen las longitudes de los tres lados. Deje s1, s2 y s3
 ser la longitud de los lados. Sea s = (s1 + s2 + s3) / 2. 
 Entonces el área del triángulo se puede calcular usando la siguiente fórmula: área = sqrt s × (s - s1) × (s - s2) × (s - s3)
@@ -213,6 +218,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="22.1.png" />
 
 
 ### Programa No.23 Area de un poligono regular.
+
 Un polígono es regular si sus lados tienen la misma longitud y los ángulos entre todos
 Los lados adyacentes son iguales. El área de un polígono regular se puede calcular usando la siguiente fórmula, donde s es la longitud de un lado n es el número de lados:
 
@@ -231,11 +237,21 @@ Solucion. Pondremos unas variables llamadas dias, horas, minutos y segundos que 
 Y tambien lo podemos ver en la siguiente imagen.<img src="24.png" />
 
 ### Programa No.25 Unidades de tiempo (de nuevo).
+
 En este ejercicio revertirá el proceso descrito en el ejercicio anterior. Desarrolle un programa que comience leyendo un número de segundos del usuario. Luego, su programa debe mostrar la cantidad de tiempo equivalente en el formulario D: HH: MM: SS, donde D, HH, MM y SS representan días, horas, minutos y segundos respectivamente. Las horas, minutos y segundos deben estar formateados para que
 Ocupan exactamente dos dígitos, con un 0 inicial si es necesario.
 
 Solucion. Como lo hicimo en el anterior programa pusimos las constantes en el programa para despues dividir los segundos que el usuario introducira entre los segundos que vale un dia una hora o un segundo para poder hacer que el programa nos de dos digitos pondremos el %00.d en el resultado, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej.26%20Revierte%20la%20fecha.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="26.png" />
+
+### Programa No.26 Tiempo actual.
+
+Python incluye una biblioteca de funciones para trabajar con el tiempo, incluida una función llamado asctime en el módulo de tiempo. Lee la hora actual de la computadora reloj interno y lo devuelve en un formato legible para humanos. Escribir un programa que muestra la hora y fecha actuales. Su programa no requerirá ninguna entrada de el usuario.
+
+Solucion. Empezaremos importando la libreria Time esto con el fin de solo imprimir la hora actual con el siguiinet codigo print(time.strftime("%H:%M:%S")) #Formato de 24 horas, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej.26%20Revierte%20la%20fecha.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="26.png" />
+
+
 
 
 
