@@ -234,7 +234,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="24.png" />
 En este ejercicio revertirá el proceso descrito en el ejercicio anterior. Desarrolle un programa que comience leyendo un número de segundos del usuario. Luego, su programa debe mostrar la cantidad de tiempo equivalente en el formulario D: HH: MM: SS, donde D, HH, MM y SS representan días, horas, minutos y segundos respectivamente. Las horas, minutos y segundos deben estar formateados para que
 Ocupan exactamente dos dígitos, con un 0 inicial si es necesario.
 
-Solucion. Como lo hicimo en el anterior programa pusimos las constantes en el programa para despues dividir los segundos que el usuario introducira entre los segundos que vale un dia una hora o un segundo para poder hacer que el programa nos de dos digitos pondremos el %00.d en el resultado, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2025%20Unidades%20de%20tiempo.py
+Solucion. Como lo hicimo en el anterior programa pusimos las constantes en el programa para despues dividir los segundos que el usuario introducira entre los segundos que vale un dia una hora o un segundo para poder hacer que el programa nos de dos digitos pondremos el %00.d en el resultado, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej.26%20Revierte%20la%20fecha.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="26.png" />
 
 
