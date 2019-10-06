@@ -248,7 +248,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="26.png" />
 
 Python incluye una biblioteca de funciones para trabajar con el tiempo, incluida una función llamado asctime en el módulo de tiempo. Lee la hora actual de la computadora reloj interno y lo devuelve en un formato legible para humanos. Escribir un programa que muestra la hora y fecha actuales. Su programa no requerirá ninguna entrada de el usuario.
 
-Solucion. Empezaremos importando la libreria Time esto con el fin de solo imprimir la hora actual con el siguiinet codigo print(time.strftime("%H:%M:%S")) #Formato de 24 horas, el codigo es el siguiente, 
+Solucion. Empezaremos importando la libreria Time esto con el fin de solo imprimir la hora actual con el siguiinet codigo print(time.strftime("%H:%M:%S")) #Formato de 24 horas, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa%2027.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="26.1.png" />
 
 
