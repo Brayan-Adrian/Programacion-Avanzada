@@ -251,6 +251,14 @@ Python incluye una biblioteca de funciones para trabajar con el tiempo, incluida
 Solucion. Empezaremos importando la libreria Time esto con el fin de solo imprimir la hora actual con el siguiinet codigo print(time.strftime("%H:%M:%S")) #Formato de 24 horas, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa%2027.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="26.1.png" />
 
+### Programa No.27 Tiempo actual.
+
+Escriba un programa que calcule el índice de masa corporal (IMC) de un individuo. El programa debe comenzar leyendo una altura y un peso del usuario. Entonces debería usar una de las siguientes dos fórmulas para calcular el IMC antes de mostrarlo. Si lees la altura en pulgadas y el peso en libras, entonces el índice de masa corporal es calculado usando la siguiente fórmula:
+IMC = (peso /(altura × altura))× 703. Si lee la altura en metros y el peso en kilogramos, entonces el índice de masa corporal se calcula utilizando esta fórmula ligeramente más simple:IMC = peso /(altura × altura)
+
+Solucion. Utilizaremos un los condicionales if para darle los rangos de IMC para ello nos guiaremos en la siguiente imagen.
+
+
 
 
 
