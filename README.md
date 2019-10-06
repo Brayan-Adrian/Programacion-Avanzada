@@ -259,7 +259,7 @@ IMC = (peso /(altura × altura))× 703. Si lee la altura en metros y el peso en 
 Solucion. Utilizaremos un los condicionales if para darle los rangos de IMC para ello nos guiaremos en la siguiente imagen.
 imagen.<img src="imc-rangos.png" />
 ya sabiendo esto declararemos los elif con su mayo o menor o igual que, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa%2027.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="26.1.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="27.png" />
 
 
 
