@@ -227,8 +227,17 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="23.png" />
 
 Cree un programa que lea una duración del usuario como un número de días, horas, minutos y segundos. Calcule y muestre el número total de segundos representados por esta duración.
 
-Solucion. Pondremos unas variables llamadas dias, horas, minutos y segundos que el usuario introducira despues declararemos las la operacion de tal manera que nos convierta los dias horas minutos en segundos y los segundos que introduzca el usuario solo se sumen con la operacion indicada, tomemos como dato que un dia tiene 86400 segundos, una hora 3600 segundos y un minuto tiene 60 segundos, al final lo sumamos creando una variable llamada total para imprimir solo los segundos, el codigo es el siguiente,https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa19.py
+Solucion. Pondremos unas variables llamadas dias, horas, minutos y segundos que el usuario introducira despues declararemos las la operacion de tal manera que nos convierta los dias horas minutos en segundos y los segundos que introduzca el usuario solo se sumen con la operacion indicada, tomemos como dato que un dia tiene 86400 segundos, una hora 3600 segundos y un minuto tiene 60 segundos, al final lo sumamos creando una variable llamada total para imprimir solo los segundos, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2025%20Unidades%20de%20tiempo.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="24.png" />
+
+### Programa No.25 Unidades de tiempo (de nuevo).
+En este ejercicio revertirá el proceso descrito en el ejercicio anterior. Desarrolle un programa que comience leyendo un número de segundos del usuario. Luego, su programa debe mostrar la cantidad de tiempo equivalente en el formulario D: HH: MM: SS, donde D, HH, MM y SS representan días, horas, minutos y segundos respectivamente. Las horas, minutos y segundos deben estar formateados para que
+Ocupan exactamente dos dígitos, con un 0 inicial si es necesario.
+
+Solucion. Como lo hicimo en el anterior programa pusimos las constantes en el programa para despues dividir los segundos que el usuario introducira entre los segundos que vale un dia una hora o un segundo para poder hacer que el programa nos de dos digitos pondremos el %00.d en el resultado, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2025%20Unidades%20de%20tiempo.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="24.png" />
+
+
 
 
 
