@@ -289,7 +289,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="30.1.png" />
 
 Desarrolle un programa que lea un número entero de cuatro dígitos del usuario y muestre la suma de los dígitos en el número. Por ejemplo, si el usuario ingresa 3141, entonces su programa debería mostrar 3 + 1 + 4 + 1 = 9.
 
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa30.py
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa31.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="31.png" />
 
 
