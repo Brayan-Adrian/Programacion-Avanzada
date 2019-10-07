@@ -270,7 +270,7 @@ WCI = 13.12 + 0.6215Ta - 11.37V ** 0.16 + 0.3965TaV ** 0.16
 Escriba un programa que comience leyendo la temperatura del aire y la velocidad del viento del usuario. Una vez que se hayan leído estos valores, su programa debería mostrar la sensación térmica índice redondeado al entero más cercano.
 
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa28.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="27.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="28.png" />
 
 
 
