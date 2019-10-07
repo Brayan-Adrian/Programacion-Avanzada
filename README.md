@@ -257,9 +257,23 @@ Escriba un programa que calcule el índice de masa corporal (IMC) de un individu
 IMC = (peso /(altura × altura))× 703. Si lee la altura en metros y el peso en kilogramos, entonces el índice de masa corporal se calcula utilizando esta fórmula ligeramente más simple:IMC = peso /(altura × altura)
 
 Solucion. Utilizaremos un los condicionales if para darle los rangos de IMC para ello nos guiaremos en la siguiente imagen.
-imagen.<img src="imc-rangos.png" />
+
+<img src="imc-rangos.png" />
+
 ya sabiendo esto declararemos los elif con su mayo o menor o igual que, el codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Indice%20de%20masa%20corporal.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="27.png" />
+
+### Programa No.28 Escalofríos.
+
+Cuando el viento sopla en clima frío, el aire se siente aún más frío de lo que realmente es porque el movimiento del aire aumenta la velocidad de enfriamiento de los objetos calientes, como personas. Este efecto se conoce como sensación térmica. En 2001, Canadá, el Reino Unido y los Estados Unidos adoptaron lo siguiente fórmula para calcular el índice de sensación térmica. Dentro de la fórmula Ta está el La temperatura del aire en grados Celsius y V es la velocidad del viento en kilómetros por hora. Se puede usar una fórmula similar con diferentes valores constantes con temperaturas en grados Fahrenheit y velocidades del viento en millas por hora.
+WCI = 13.12 + 0.6215Ta - 11.37V ** 0.16 + 0.3965TaV ** 0.16
+Escriba un programa que comience leyendo la temperatura del aire y la velocidad del viento del usuario. Una vez que se hayan leído estos valores, su programa debería mostrar la sensación térmica índice redondeado al entero más cercano.
+
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Indice%20de%20masa%20corporal.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="27.png" />
+
+
+
 
 
 
