@@ -298,7 +298,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="31.png" />
 Cree un programa que lea tres enteros del usuario y los muestre ordenados orden (de menor a mayor). Usa las funciones min y max para encontrar el más pequeño y valores más grandes. El valor medio se puede encontrar calculando la suma de los tres valores, y luego restando el valor mínimo y el valor máximo.
 
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa33.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="32.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="" />
 
 
 
