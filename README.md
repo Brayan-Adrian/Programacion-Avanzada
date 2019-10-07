@@ -272,6 +272,10 @@ Escriba un programa que comience leyendo la temperatura del aire y la velocidad 
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa28.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="28.png" />
 
+### Programa No.29 Escalofríos.
+Escriba un programa que comience leyendo la temperatura del usuario en grados Celsius. Entonces su programa debe mostrar la temperatura equivalente en grados Fahrenheit y grados Kelvin. Los cálculos necesarios para convertir entre diferentes unidades de temperatura se pueden encontrar en internet.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa29.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="28.png" />
 
 
 
