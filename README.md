@@ -272,17 +272,18 @@ Escriba un programa que comience leyendo la temperatura del aire y la velocidad 
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa28.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="28.png" />
 
-### Programa No.29 Escalofríos.
+### Programa No.29 Grados Celisious a Grados Farenheit y Kelvn.
+
 Escriba un programa que comience leyendo la temperatura del usuario en grados Celsius. Entonces su programa debe mostrar la temperatura equivalente en grados Fahrenheit y grados Kelvin. Los cálculos necesarios para convertir entre diferentes unidades de temperatura se pueden encontrar en internet.
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa29.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="28.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="29.png" />
 
+### Programa No.30 Unidades de presion.
 
+En este ejercicio creará un programa que lee la presión del usuario en kilopascales. Una vez que se ha leído la presión, su programa debe informar el equivalente presión en libras por pulgada cuadrada, milímetros de mercurio y atmósferas. Utilizar sus habilidades de investigación para determinar los factores de conversión entre estas unidades.
 
-
-
-
-
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa29.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="29.png" />
 
 
 
