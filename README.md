@@ -283,7 +283,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="29.png" />
 En este ejercicio creará un programa que lee la presión del usuario en kilopascales. Una vez que se ha leído la presión, su programa debe informar el equivalente presión en libras por pulgada cuadrada, milímetros de mercurio y atmósferas. Utilizar sus habilidades de investigación para determinar los factores de conversión entre estas unidades.
 
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa30.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="30.1.png" />
 
 
 
