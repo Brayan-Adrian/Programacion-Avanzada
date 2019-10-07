@@ -293,9 +293,9 @@ Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacio
 Y tambien lo podemos ver en la siguiente imagen.<img src="31.png" />
 
 
-### Programa No.32 Ordenar 3 enteros.
+### Programa No.33 Pan de un día.
 
-Cree un programa que lea tres enteros del usuario y los muestre ordenados orden (de menor a mayor). Usa las funciones min y max para encontrar el más pequeño y valores más grandes. El valor medio se puede encontrar calculando la suma de los tres valores, y luego restando el valor mínimo y el valor máximo.
+Una panadería vende hogazas de pan por $ 3.49 cada una. El pan de un día tiene un descuento de 60 por ciento. Escriba un programa que comience leyendo la cantidad de panes de un día pan que se compra al usuario. Entonces su programa debe mostrar el regular precio del pan, el descuento porque tiene un día y el precio total. Todo los valores deben mostrarse con dos decimales y los puntos decimales en todos de los números deben alinearse cuando el usuario ingresa valores razonables.
 
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa33.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="33.png" />
