@@ -319,7 +319,7 @@ Se dice comúnmente que un año humano es equivalente a 7 años de perro. Sin em
 Escribir un programa que implemente la conversión de años humanos a años de perros.
 descrito en el párrafo anterior. 
 Asegúrese de que su programa funcione correctamente para conversiones de menos de dos años humanos y para conversiones de dos o más humanos años. Su programa debe mostrar un mensaje de error apropiado si el usuario ingresa Un número negativo.
-Solucion.El codigo es el siguiente, 
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.0.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="35.png" />
 
 
