@@ -310,7 +310,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="33.png" />
 
 Escriba un programa que lea un número entero del usuario. Entonces su programa debería muestra un mensaje que indica si el entero es par o impar.
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa33.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="33.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="34.png" />
 
 
 
