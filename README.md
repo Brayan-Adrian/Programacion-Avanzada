@@ -313,6 +313,12 @@ Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacio
 Y tambien lo podemos ver en la siguiente imagen.<img src="34.png" />
 
 
+### Programa No.35 Años perro
+
+Se dice comúnmente que un año humano es equivalente a 7 años de perro. Sin embargo esto la conversión simple no reconoce que los perros alcanzan la edad adulta en aproximadamente dos años. Como resultado, algunas personas creen que es mejor contar cada uno de los dos primeros años humanos como 10.5 años de perro, y luego cuente cada año humano adicional como 4 años perro.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2034.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="34.png" />
+
 
 
 
