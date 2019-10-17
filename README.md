@@ -330,7 +330,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="36.png" />
 
 ### Programa No.37 Nombra esa forma.
 Escriba un programa que determine el nombre de una forma a partir de su número de lados. Leer el número de lados del usuario y luego informa el nombre apropiado como parte de un mensaje significativo. Su programa debe admitir formas con 3 hasta (e incluyendo) 10 lados. Si se ingresa un número de lados fuera de este rango entonces su programa debería mostrar un mensaje de error apropiado.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa36.py
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa%2037.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="37.png" />
 
 
