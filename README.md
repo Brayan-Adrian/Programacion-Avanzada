@@ -336,7 +336,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="37.png" />
 ### Programa No.38 Nombre del mes a la cantidad de días.
 La duración de un mes varía de 28 a 31 días. En este ejercicio crearás un programa que lee el nombre de un mes del usuario como una cadena. Entonces el programa debe mostrar la cantidad de días en ese mes. Mostrar "28 o 29 días" para febrero para que se aborden los años bisiestos.
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa%2037.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="37.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="38.png" />
 
 
 
