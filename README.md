@@ -322,11 +322,18 @@ Asegúrese de que su programa funcione correctamente para conversiones de menos 
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.0.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="35.png" />
 
-### Programa No.36 Nombra esa forma.
+### Programa No.36 Vocal o Consonante.
 En este ejercicio creará un programa que lee una letra del alfabeto del usuario. Si el usuario ingresa a, e, i, o u, entonces su programa debería mostrar un mensaje indicando que la letra ingresada es una vocal. Si el usuario ingresa y entonces su programa
 debería mostrar un mensaje que indique que a veces y es una vocal, y a veces y es una consonante. De lo contrario, su programa debería mostrar un mensaje que indica que el La letra es una consonante.
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa36.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="36.png" />
+
+### Programa No.37 Nombra esa forma.
+Escriba un programa que determine el nombre de una forma a partir de su número de lados. Leer el número de lados del usuario y luego informa el nombre apropiado como parte de un mensaje significativo. Su programa debe admitir formas con 3 hasta (e incluyendo) 10 lados. Si se ingresa un número de lados fuera de este rango entonces su programa debería mostrar un mensaje de error apropiado.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa36.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="36.png" />
+
+
 
 
 
