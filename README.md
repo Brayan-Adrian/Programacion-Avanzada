@@ -347,6 +347,10 @@ Escriba un programa que lea un nivel de sonido en decibelios del usuario. Si el 
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa39.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="39.png" />
 
+### Programa No.39 Nombra ese triángulo.
+Un triángulo se puede clasificar en función de la longitud de sus lados como isósceles equiláteros o escaleno. Los 3 lados de un triángulo equilátero tienen la misma longitud. Un isósceles el triángulo tiene dos lados que tienen la misma longitud y un tercer lado que es diferente longitud. Si todos los lados tienen diferentes longitudes, entonces el triángulo es escaleno.
+Escriba un programa que lea las longitudes de 3 lados de un triángulo del usuario. Mostrar un mensaje que indique el tipo de triángulo
+
 
 
 
