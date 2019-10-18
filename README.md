@@ -345,7 +345,7 @@ imagen.<img src="39.0.png" />
 
 Escriba un programa que lea un nivel de sonido en decibelios del usuario. Si el usuario ingresa un nivel de decibelios que coincide con uno de los ruidos en la tabla y luego su programa debería mostrar un mensaje que contenga solo ese ruido. Si el usuario ingresa un número de decibelios entre los ruidos enumerados, entonces su programa debería mostrar un mensaje indicando entre qué ruidos se encuentra el nivel. Asegúrese de que su programa también genere salida razonable para un valor más pequeño que el ruido más bajo en la tabla, y para un valor mayor que el ruido más alto en la tabla.
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa39.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="38.png" />
+Y tambien lo podemos ver en la siguiente imagen.<img src="39.png" />
 
 
 
