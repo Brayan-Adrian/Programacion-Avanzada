@@ -354,6 +354,10 @@ Escriba un programa que lea las longitudes de 3 lados de un triángulo del usuar
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa39.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="40.png" />
 
+### Programa No.41 Aproximacion a pi.
+El valor de pi se puede aproximar mediante las siguientes series infinitas.
+Escribe un programa que muestre 15 aproximaciones de pi. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrada por su programa debe incluir un término más en la serie, por lo que es una mejor aproximación de pi que cualquiera o las aproximaciones mostradas anteriormente.
+
 
 
 
