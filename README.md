@@ -354,9 +354,21 @@ Escriba un programa que lea las longitudes de 3 lados de un triángulo del usuar
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa39.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="40.png" />
 
-### Programa No.41 Aproximacion a pi.
+### Programa No.41 Nota a frecuencia
+La siguiente tabla enumera una octava de notas musicales, comenzando con C central, a lo largo
+con sus frecuencias
+
+tabala.<img src="40.png" />
+
+Comience escribiendo un programa que lea el nombre de una nota del usuario y muestra la frecuencia de la nota. Su programa debe admitir todas las notas enumeradas previamente.
+Una vez que tenga su programa funcionando correctamente para las notas enumeradas anteriormente, debería agregar soporte para todas las notas de C0 a C8. Si bien esto podría hacerse por agregando muchos casos adicionales a su declaración if, tal solución es engorrosa,
+inelegante e inaceptable para los propósitos de este ejercicio. En cambio, deberías explotar la relación entre notas en octavas adyacentes. En particular, la frecuencia de cualquier nota en octava n es la mitad de la frecuencia de la nota correspondiente en octava n + 1. Al usar esta relación, debería poder agregar soporte para las notas adicionales sin agregar casos adicionales a su declaración if. 
+
+### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
 Escribe un programa que muestre 15 aproximaciones de pi. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrada por su programa debe incluir un término más en la serie, por lo que es una mejor aproximación de pi que cualquiera o las aproximaciones mostradas anteriormente.
+
+
 
 
 
