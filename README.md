@@ -358,7 +358,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="40.png" />
 La siguiente tabla enumera una octava de notas musicales, comenzando con C central, a lo largo
 con sus frecuencias
 
-tabala.<img src="40.png" />
+tabala.<img src="41.png" />
 
 Comience escribiendo un programa que lea el nombre de una nota del usuario y muestra la frecuencia de la nota. Su programa debe admitir todas las notas enumeradas previamente.
 Una vez que tenga su programa funcionando correctamente para las notas enumeradas anteriormente, debería agregar soporte para todas las notas de C0 a C8. Si bien esto podría hacerse por agregando muchos casos adicionales a su declaración if, tal solución es engorrosa,
