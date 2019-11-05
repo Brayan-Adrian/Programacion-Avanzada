@@ -366,7 +366,7 @@ En la pregunta anterior, convertiste del nombre de la nota a la frecuencia. En e
 
 ### Programa No.43 Caras sobre el dinero
 Es común para las imágenes de los líderes anteriores de un país u otras personas de la historia significado, aparecer en su dinero. Las personas que aparecen en los billetes en los Estados Unidos se enumeran en la Tabla.
-tabla.<img src="41.png" />
+tabla.<img src="43.png" />
 Escriba un programa que comience leyendo la denominación de un billete del usuario. Luego, su programa debe mostrar el nombre de la persona que aparece en el billete de la cantidad ingresada. Se debe mostrar un mensaje de error apropiado
 si no existe tal nota.
 
