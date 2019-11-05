@@ -355,8 +355,7 @@ Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacio
 Y tambien lo podemos ver en la siguiente imagen.<img src="40.png" />
 
 ### Programa No.41 Nota a frecuencia
-La siguiente tabla enumera una octava de notas musicales, comenzando con C central, a lo largo
-con sus frecuencias
+La siguiente tabla enumera una octava de notas musicales, comenzando con C central, a lo largo con sus frecuencias
 
 tabla.<img src="41.png" /> Comience escribiendo un programa que lea el nombre de una nota del usuario y muestra la frecuencia de la nota. Su programa debe admitir todas las notas enumeradas previamente.
 Una vez que tenga su programa funcionando correctamente para las notas enumeradas anteriormente, debería agregar soporte para todas las notas de C0 a C8. Si bien esto podría hacerse por agregando muchos casos adicionales a su declaración if, tal solución es engorrosa,
