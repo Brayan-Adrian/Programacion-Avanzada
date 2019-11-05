@@ -365,6 +365,10 @@ inelegante e inaceptable para los propósitos de este ejercicio. En cambio, debe
 En la pregunta anterior, convertiste del nombre de la nota a la frecuencia. En esta pregunta escribirás un programa que invierta ese proceso. Comience leyendo una frecuencia del usuario Si la frecuencia está dentro de un Hertz de un valor listado en la tabla de la pregunta anterior, informe el nombre de la nota. De lo contrario, informe que el la frecuencia no corresponde a una nota conocida. En este ejercicio solo necesitas considere las notas enumeradas en la tabla. No hay necesidad de considerar notas de otros octavas
 
 ### Programa No.43 Caras sobre el dinero
+Es común para las imágenes de los líderes anteriores de un país u otras personas de la historia significado, aparecer en su dinero. Las personas que aparecen en los billetes en los Estados Unidos se enumeran en la Tabla.
+tabla.<img src="41.png" />
+Escriba un programa que comience leyendo la denominación de un billete del usuario. Luego, su programa debe mostrar el nombre de la persona que aparece en el billete de la cantidad ingresada. Se debe mostrar un mensaje de error apropiado
+si no existe tal nota.
 
 
 ### Aproximacion a pi.
