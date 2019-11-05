@@ -361,6 +361,9 @@ tabla.<img src="41.png" /> Comience escribiendo un programa que lea el nombre de
 Una vez que tenga su programa funcionando correctamente para las notas enumeradas anteriormente, debería agregar soporte para todas las notas de C0 a C8. Si bien esto podría hacerse por agregando muchos casos adicionales a su declaración if, tal solución es engorrosa,
 inelegante e inaceptable para los propósitos de este ejercicio. En cambio, deberías explotar la relación entre notas en octavas adyacentes. En particular, la frecuencia de cualquier nota en octava n es la mitad de la frecuencia de la nota correspondiente en octava n + 1. Al usar esta relación, debería poder agregar soporte para las notas adicionales sin agregar casos adicionales a su declaración if. 
 
+### Programa No.42 Frequency To Note
+En la pregunta anterior, convertiste del nombre de la nota a la frecuencia. En esta pregunta escribirás un programa que invierta ese proceso. Comience leyendo una frecuencia del usuario Si la frecuencia está dentro de un Hertz de un valor listado en la tabla de la pregunta anterior, informe el nombre de la nota. De lo contrario, informe que el la frecuencia no corresponde a una nota conocida. En este ejercicio solo necesitas considere las notas enumeradas en la tabla. No hay necesidad de considerar notas de otros octavas
+
 ### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
 Escribe un programa que muestre 15 aproximaciones de pi. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrada por su programa debe incluir un término más en la serie, por lo que es una mejor aproximación de pi que cualquiera o las aproximaciones mostradas anteriormente.
