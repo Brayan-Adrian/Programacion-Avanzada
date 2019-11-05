@@ -370,6 +370,11 @@ tabla.<img src="43.png" />
 Escriba un programa que comience leyendo la denominación de un billete del usuario. Luego, su programa debe mostrar el nombre de la persona que aparece en el billete de la cantidad ingresada. Se debe mostrar un mensaje de error apropiado
 si no existe tal nota.
 
+### Programa No.44 Fecha de nombre de vacaciones
+Canadá tiene tres feriados nacionales que caen en las mismas fechas cada año.
+tabla.<img src="44.png" />
+Escriba un programa que lea un mes y un día del usuario. Si el mes y el dia coincidir con uno de los días festivos enumerados anteriormente, entonces su programa debería mostrar el nombre de vacaciones De lo contrario, su programa debe indicar que el mes ingresado y día no corresponde a un día festivo de fecha fija.
+
 
 ### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
