@@ -364,6 +364,9 @@ inelegante e inaceptable para los propósitos de este ejercicio. En cambio, debe
 ### Programa No.42 Frequency To Note
 En la pregunta anterior, convertiste del nombre de la nota a la frecuencia. En esta pregunta escribirás un programa que invierta ese proceso. Comience leyendo una frecuencia del usuario Si la frecuencia está dentro de un Hertz de un valor listado en la tabla de la pregunta anterior, informe el nombre de la nota. De lo contrario, informe que el la frecuencia no corresponde a una nota conocida. En este ejercicio solo necesitas considere las notas enumeradas en la tabla. No hay necesidad de considerar notas de otros octavas
 
+### Programa No.43 Caras sobre el dinero
+
+
 ### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
 Escribe un programa que muestre 15 aproximaciones de pi. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrada por su programa debe incluir un término más en la serie, por lo que es una mejor aproximación de pi que cualquiera o las aproximaciones mostradas anteriormente.
