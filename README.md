@@ -381,6 +381,14 @@ tabla.<img src="45.0.png" />
 Escriba un programa que lea una posición del usuario. Use una declaración if para determinar si la columna comienza con un cuadrado negro o un cuadrado blanco. Luego use modular aritmética para informar el color del cuadrado en esa fila. Por ejemplo, si el usuario ingresa a1 entonces su programa debe informar que el cuadrado es negro. Si el usuario ingresa d5 entonces su programa debe informar que el cuadrado es blanco. Su programa puede asumir que siempre se ingresará una posición válida. No necesita realizar ningún error
 comprobación.
 
+### Programa No.46 Temporada de mes y día
+El año se divide en cuatro estaciones: primavera, verano, otoño e invierno. Mientras que las fechas exactas en que cambian las estaciones varían un poco de un año a otro debido a la manera en que se construye el calendario, utilizaremos las siguientes fechas para este ejercicio:
+
+### Programa No.47 
+Los horóscopos comúnmente reportados en los periódicos usan la posición del sol en el momento del nacimiento para intentar predecir el futuro. Este sistema de astrología divide el año en doce signos del zodiaco, como se describe en la tabla a continuación:
+tabla.<img src="45.0.png" />
+Escriba un programa que le pida al usuario que ingrese su mes y día de nacimiento. Entonces su programa debe informar el signo del zodiaco del usuario como parte de una salida adecuada mensaje.
+
 ### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
 Escribe un programa que muestre 15 aproximaciones de pi. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrada por su programa debe incluir un término más en la serie, por lo que es una mejor aproximación de pi que cualquiera o las aproximaciones mostradas anteriormente.
