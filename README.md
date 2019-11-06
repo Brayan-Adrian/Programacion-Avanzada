@@ -385,7 +385,7 @@ comprobación.
 El año se divide en cuatro estaciones: primavera, verano, otoño e invierno. Mientras que las fechas exactas en que cambian las estaciones varían un poco de un año a otro debido a la manera en que se construye el calendario, utilizaremos las siguientes fechas para este ejercicio:
 tabla.<img src="46.0.png" />
 Cree un programa que lea un mes y un día del usuario. El usuario ingresará el nombre del mes como una cadena, seguido del día dentro del mes como un entero. Luego, su programa debe mostrar la temporada asociada con la fecha en que fue ingresado.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa39.py
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2046.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="46.png" />
 
 
