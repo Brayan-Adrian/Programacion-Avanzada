@@ -374,8 +374,8 @@ si no existe tal nota.
 Canadá tiene tres feriados nacionales que caen en las mismas fechas cada año.
 tabla.<img src="44.png" />
 Escriba un programa que lea un mes y un día del usuario. Si el mes y el dia coincidir con uno de los días festivos enumerados anteriormente, entonces su programa debería mostrar el nombre de vacaciones De lo contrario, su programa debe indicar que el mes ingresado y día no corresponde a un día festivo de fecha fija.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Programa38.py
-Y tambien lo podemos ver en la siguiente imagen.<img src="38.png" />
+Solucion.El codigo es el siguiente, 
+Y tambien lo podemos ver en la siguiente imagen.<img src="34.1.png" />
 
 ### Programa No.45 ¿De qué color es ese cuadrado?
 Las posiciones en un tablero de ajedrez se identifican con una letra y un número. La carta identifica la columna, mientras que el número identifica la fila, como se muestra a continuación:
