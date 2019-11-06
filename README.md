@@ -393,7 +393,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="46.png" />
 Los horóscopos comúnmente reportados en los periódicos usan la posición del sol en el momento del nacimiento para intentar predecir el futuro. Este sistema de astrología divide el año en doce signos del zodiaco, como se describe en la tabla a continuación:
 tabla.<img src="45.0.png" />
 Escriba un programa que le pida al usuario que ingrese su mes y día de nacimiento. Entonces su programa debe informar el signo del zodiaco del usuario como parte de una salida adecuada mensaje.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2046.py
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="47.png" />
 
 ### Aproximacion a pi.
