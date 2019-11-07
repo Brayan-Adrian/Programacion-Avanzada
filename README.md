@@ -363,7 +363,7 @@ inelegante e inaceptable para los propósitos de este ejercicio. En cambio, debe
 
 ### Programa No.42 Frequency To Note
 En la pregunta anterior, convertiste del nombre de la nota a la frecuencia. En esta pregunta escribirás un programa que invierta ese proceso. Comience leyendo una frecuencia del usuario Si la frecuencia está dentro de un Hertz de un valor listado en la tabla de la pregunta anterior, informe el nombre de la nota. De lo contrario, informe que el la frecuencia no corresponde a una nota conocida. En este ejercicio solo necesitas considere las notas enumeradas en la tabla. No hay necesidad de considerar notas de otros octavas
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/44.py
+Solucion.El codigo es el siguiente,
 Y tambien lo podemos ver en la siguiente imagen.<img src="42.png" />
 
 ### Programa No.43 Caras sobre el dinero
