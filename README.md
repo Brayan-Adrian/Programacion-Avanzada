@@ -401,6 +401,12 @@ Escriba un programa que le pida al usuario que ingrese su mes y día de nacimien
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="47.png" />
 
+### Programa No.48 Escala Richter
+La siguiente tabla contiene rangos de magnitud de terremotos en la escala de Richter y sus descriptores:
+Escriba un programa que lea la admiración del usuario y muestre la información apropiada.
+descriptor como parte de un mensaje significativo. Por ejemplo, si el usuario ingresa 5.5 entonces su programa debe indicar que un terremoto de magnitud 5.5 se considera terremoto moderado
+
+
 ### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
 Escribe un programa que muestre 15 aproximaciones de pi. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrada por su programa debe incluir un término más en la serie, por lo que es una mejor aproximación de pi que cualquiera o las aproximaciones mostradas anteriormente.
