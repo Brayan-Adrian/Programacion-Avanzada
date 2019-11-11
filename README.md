@@ -393,18 +393,24 @@ Cree un programa que lea un mes y un día del usuario. El usuario ingresará el 
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Ej%2046.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="46.png" />
 
+### Programa No.47 Fecha de Nacimiento al Signo Astrológico
+Los horóscopos comúnmente reportados en los periódicos usan la posición del sol en el momento del nacimiento para intentar predecir el futuro. Este sistema de astrología divide el año en doce signos del zodiaco, como se describe en la tabla a continuación:
+imagen.<img src="47.1.png" />
+Escriba un programa que le pida al usuario que ingrese su mes y día de nacimiento. Entonces su programa debe informar el signo del zodiaco del usuario como parte de una salida adecuada mensaje.
 
-### Programa No.47 
+
+
+### Programa No.48 Zodiaco Chino
 Los horóscopos comúnmente reportados en los periódicos usan la posición del sol en el momento del nacimiento para intentar predecir el futuro. Este sistema de astrología divide el año en doce signos del zodiaco, como se describe en la tabla a continuación:
 tabla.<img src="47.0.png" />
 Escriba un programa que le pida al usuario que ingrese su mes y día de nacimiento. Entonces su programa debe informar el signo del zodiaco del usuario como parte de una salida adecuada mensaje.
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="47.png" />
 
-### Programa No.48 Escala Richter
+### Programa No.49 Escala Richter
 La siguiente tabla contiene rangos de magnitud de terremotos en la escala de Richter y sus descriptores:
-Escriba un programa que lea la admiración del usuario y muestre la información apropiada.
-descriptor como parte de un mensaje significativo. Por ejemplo, si el usuario ingresa 5.5 entonces su programa debe indicar que un terremoto de magnitud 5.5 se considera terremoto moderado
+imagen.<img src="49.png" />
+Escriba un programa que lea la admiración del usuario y muestre la información apropiada describe como parte de un mensaje significativo. Por ejemplo, si el usuario ingresa 5.5 entonces su programa debe indicar que un terremoto de magnitud 5.5 se considera terremoto moderado
 
 
 ### Aproximacion a pi.
