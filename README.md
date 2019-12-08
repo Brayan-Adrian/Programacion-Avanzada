@@ -616,6 +616,27 @@ Mientras que el factor es menor o igual que n do Si n es divisible uniformemente
 De lo contrario, su programa debería mostrar los números primos que se pueden multiplicar juntos para calcular n, con un factor que aparece en cada línea. Por ejemplo:
 imagen.<img src="76.png" />
 
+### Programa 77: binario a decimal
+
+Escriba un programa que convierta un número binario (base 2) a decimal (base 10). Tu
+El programa debe comenzar leyendo el número binario del usuario como una cadena. Luego debe calcular el número decimal equivalente procesando cada dígito en el número binario. Finalmente, su programa debe mostrar el número decimal equivalente con un mensaje apropiado
+
+### Programa 78: decimal a binario
+
+Escriba un programa que convierta un número decimal (base 10) a binario (base 2). Leer el número decimal del usuario como un entero y luego use el algoritmo de división que se muestra a continuación para realizar la conversión. Cuando se completa el algoritmo, el resultado contiene el Representación binaria del número. Mostrar el resultado, junto con un mensaje. Deje que el resultado sea una cadena vacía Deje que q represente el número a convertir repetir Establezca r igual al resto cuando q se divide por 2 Convierta r en una cadena y agréguela al comienzo del resultado Divida q entre 2, descartando cualquier resto, y almacene el resultado nuevamente en q hasta que q sea 0
+
+### Programa 79: entero máximo
+
+Este ejercicio examina el proceso de identificación del valor máximo en una colección de enteros. Cada uno de los enteros se seleccionará aleatoriamente de los números entre 1 y 100. La colección de enteros puede contener valores duplicados, y algunos de los
+los enteros entre 1 y 100 pueden no estar presentes. Tómese un momento y piense cómo manejaría este problema en papel. Muchas personas verifican cada número entero en secuencia y se preguntan si el número que están considerando actualmente es mayor que el mayor número que han visto previamente. Si es así, entonces olvidan el número máximo anterior y recuerdan el número actual como el nuevo número máximo. Este es un enfoque razonable, y dará como resultado la respuesta correcta cuando el proceso se realice con cuidado. Si tu
+estaban realizando esta tarea, ¿cuántas veces esperaría necesitar actualizar el valor máximo y recuerda un nuevo número?
+Si bien podemos responder la pregunta planteada al final del párrafo anterior usando teoría de la probabilidad, vamos a explorarla simulando la situación. Crear un programa que comienza seleccionando un número entero aleatorio entre 1 y 100. Guarde esto
+entero como el número máximo encontrado hasta ahora. Después de que el entero inicial ha sido seleccionado, generar 99 enteros aleatorios adicionales entre 1 y 100. Verifique cada entero, ya que se genera para ver si es mayor que el número máximo encontrado
+hasta aquí. Si es así, su programa debería actualizar el número máximo encontrado y cuente el hecho de que realizó una actualización. Muestra cada número entero después de ti generarlo Incluya una notación con esos enteros que representan un nuevo máximo.
+Después de haber mostrado 100 enteros, su programa debería mostrar el máximo valor encontrado, junto con el número de veces que el valor máximo fue actualizado durante el proceso. La salida parcial para el programa se muestra a continuación,
+con ... representando los enteros restantes que mostrará su programa. Ejecute su programa varias veces. Es el número de actualizaciones realizadas en el valor máximo que esperabas
+imagen.<img src="79.png" />
+
 
 
 
