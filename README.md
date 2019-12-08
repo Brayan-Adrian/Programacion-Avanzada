@@ -456,6 +456,25 @@ La radiación electromagnética se puede clasificar en una de las 7 categorías 
 imagen.<img src="55.png" />
 Escriba un programa que lea la frecuencia de la radiación del usuario y muestre el nombre apropiado.
 
+### Programa No.56 Bill de teléfono celular
+
+Escriba un programa que lea la cantidad de minutos y mensajes de texto utilizados en un mes del usuario. Muestra el cargo base, el cargo por minutos adicionales (si corresponde), cargo adicional por mensaje de texto (si corresponde), la tarifa 911, impuestos y el monto total de la factura. Solamente mostrar los cargos adicionales por minutos y mensajes de texto si el usuario incurrió en costos en
+Estas categorías. Asegúrese de que todos los cargos se muestren con 2 decimales.
+Un plan particular de telefonía celular incluye 50 minutos de tiempo al aire y 50 mensajes de texto por $ 15.00 al mes. Cada minuto adicional de tiempo en el aire cuesta $ 0.25, mientras que adicional
+los mensajes de texto cuestan $ 0.15 cada uno. Todas las facturas de teléfonos celulares incluyen un cargo adicional de
+$ 0.44 para respaldar los centros de llamadas al 911, y la factura completa (incluido el cargo del 911) es, sujeto al 5 por ciento de impuesto a las ventas.
+
+### Programa No.57 ¿Es un año bisiesto?
+
+La mayoría de los años tienen 365 días. Sin embargo, el tiempo requerido para que la Tierra orbita alrededor del Sol en realidad es un poco más que eso. Como resultado, se incluye un día adicional, el 29 de febrero.
+en algunos años para corregir esta diferencia. Dichos años se denominan años bisiestos.
+Las reglas para determinar si un año es o no bisiesto son las siguientes:
+• Cualquier año que es divisible por 400 es un año bisiesto.
+• De los años restantes, cualquier año divisible por 100 no es bisiesto.
+• De los años restantes, cualquier año que sea divisible por 4 es un año bisiesto.
+• Todos los demás años no son bisiestos.
+Escriba un programa que lea un año del usuario y muestre un mensaje que indique si es o no un año bisiesto.
+
 
 
 ### Aproximacion a pi.
