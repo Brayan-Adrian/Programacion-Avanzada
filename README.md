@@ -442,6 +442,12 @@ En el ejercicio anterior, creó un programa que convierte una calificación de l
 
 En una empresa en particular, los empleados son calificados al final de cada año. La escala de calificación comienza en 0.0, con valores más altos que indican un mejor rendimiento y resultados más grandes plantea. El valor otorgado a un empleado es 0.0, 0.4 o 0.6 o más. Valores entre 0.0 y 0.4, y entre 0.4 y 0.6 nunca se usan. El significado asociado con cada calificación se muestra en la siguiente tabla. El monto del aumento de un empleado es $ 2400.00 multiplicado por su calificación.
 imagen.<img src="53.png" />
+Escriba un programa que lea una calificación del usuario e indique si el rendimiento fue inaceptable, aceptable o meritorio. El monto del empleado aumento también debe ser reportado. Su programa debe mostrar un error apropiado mensaje si se ingresa una calificación no válida.
+
+### Programa No.54 Longitudes de onda de luz visible
+
+La longitud de onda de la luz visible varía de 380 a 750 nanómetros (nm). Mientras que el espectro es continuo, a menudo se divide en 6 colores como se muestra a continuación:
+
 
 ### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
