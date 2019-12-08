@@ -432,6 +432,16 @@ En una universidad en particular, las calificaciones con letras se asignan a pun
 manera: imagen.<img src="51.png" />
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="41..png" />
+Escriba un programa que comience leyendo una calificación de letra del usuario. Entonces el programa debe calcular y mostrar el número equivalente de puntos de calificación. Asegúrese de que su programa genere un mensaje de error apropiado si el usuario ingresa un mensaje no válido grado de la letra.
+
+### Programa No.52 Calificación de puntos a calificación de letras
+
+En el ejercicio anterior, creó un programa que convierte una calificación de letra en número equivalente de puntos de calificación. En este ejercicio creará un programa que invierte el proceso y convierte de un valor de punto de calificación introducido por el usuario a un grado de la letra. Asegúrese de que su programa maneje los valores de calificación que se encuentran entre Grados de letras. Estos deben redondearse al grado de letra más cercano. Su programa debe reportar A + para un promedio de calificaciones de 4.0 (o más).
+
+### Programa No.53 Evaluar empleados 
+
+En una empresa en particular, los empleados son calificados al final de cada año. La escala de calificación comienza en 0.0, con valores más altos que indican un mejor rendimiento y resultados más grandes plantea. El valor otorgado a un empleado es 0.0, 0.4 o 0.6 o más. Valores entre 0.0 y 0.4, y entre 0.4 y 0.6 nunca se usan. El significado asociado con cada calificación se muestra en la siguiente tabla. El monto del aumento de un empleado es $ 2400.00 multiplicado por su calificación.
+imagen.<img src="53.png" />
 
 ### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
