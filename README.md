@@ -447,6 +447,15 @@ Escriba un programa que lea una calificación del usuario e indique si el rendim
 ### Programa No.54 Longitudes de onda de luz visible
 
 La longitud de onda de la luz visible varía de 380 a 750 nanómetros (nm). Mientras que el espectro es continuo, a menudo se divide en 6 colores como se muestra a continuación:
+imagen.<img src="54.png" />
+Escriba un programa que lea la longitud de onda del usuario e informe su color. Monitor un mensaje de error apropiado si la longitud de onda ingresada por el usuario está fuera de espectro visible.
+
+### Programa No.55 Frecuencia para nombrar
+
+La radiación electromagnética se puede clasificar en una de las 7 categorías según su frecuencia, como se muestra en la tabla a continuación:
+imagen.<img src="55.png" />
+Escriba un programa que lea la frecuencia de la radiación del usuario y muestre el nombre apropiado.
+
 
 
 ### Aproximacion a pi.
