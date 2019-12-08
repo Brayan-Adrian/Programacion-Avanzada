@@ -600,6 +600,22 @@ mientras determina si una cuerda es o no un palíndromo. Para un desafío adicio
 
 En este ejercicio creará un programa que muestra una tabla de multiplicación que muestra los productos de todas las combinaciones de enteros desde 1 por 1 hasta 10 veces 10. Su tabla de multiplicar debe incluir una fila de etiquetas en la parte superior contiene los números del 1 al 10. También debe incluir etiquetas a la izquierda lado que consiste en los números del 1 al 10. La salida esperada del programa se muestra a continuación
 imagen.<img src="74.png" />
+Al completar este ejercicio, probablemente le resulte útil poder imprime un valor sin pasar a la siguiente línea. Esto se puede lograr
+agregando end = "" como el último parámetro a su declaración de impresión. Por ejemplo, print ("A") mostrará la letra A y luego bajará a la siguiente línea. los la instrucción de impresión ("A", end = "") mostrará la letra A sin moverse hacia abajo a la siguiente línea, haciendo que la siguiente declaración de impresión muestre su resultado en la misma línea como la letra A.
+
+### Programa 75: el divisor común más grande
+
+El máximo común divisor de dos enteros positivos, nym, es el mayor número, d, que se divide uniformemente en n y m. Hay varios algoritmos que pueden ser utilizado para resolver este problema, que incluye:
+Inicialice d al menor de m y n. Mientras que d no divide equitativamente m o d no divide equitativamente n do Disminuya el valor de d en 1 Informe d como el máximo divisor común de n y m Escriba un programa que lea dos enteros positivos del usuario y use este algoritmo
+para determinar e informar su mayor divisor común.
+
+### Programa 76: factores primos
+
+La factorización prima de un número entero, n, se puede determinar utilizando los siguientes pasos: Inicializar factor a dos
+Mientras que el factor es menor o igual que n do Si n es divisible uniformemente por factor, entonces Concluir que el factor es un factor de n Divide n por factor usando la división entera Más Aumenta el factor en uno Escriba un programa que lea un número entero del usuario. Si el valor ingresado por el usuario tiene menos de 2, entonces su programa debería mostrar un mensaje de error apropiado.
+De lo contrario, su programa debería mostrar los números primos que se pueden multiplicar juntos para calcular n, con un factor que aparece en cada línea. Por ejemplo:
+imagen.<img src="76.png" />
+
 
 
 
