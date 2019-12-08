@@ -505,6 +505,102 @@ Pague de 1 a 18
 
 Si la simulación da como resultado 0 o 00, su programa debería mostrar Pagar 0 o pague 00 sin más producción.
 
+### Programa No.61 Promedio
+
+En este ejercicio creará un programa que calcula el promedio de una colección de valores ingresados por el usuario. El usuario ingresará 0 como valor centinela para indicar que no se proporcionarán más valores. Su programa debe mostrar un apropiado mensaje de error si el primer valor introducido por el usuario es 0.
+
+### Programa No.62 Tabla de descuento
+
+Un minorista en particular está teniendo un 60 por ciento de descuento en una variedad de productos descontinuados.
+productos El minorista desea ayudar a sus clientes a determinar el precio reducido.
+de la mercancía al tener una tabla de descuento impresa en el estante que muestra loa precios originales y los precios posteriores a la aplicación del descuento. Escribe un programa que usa un bucle para generar esta tabla, que muestra el precio original, el monto del descuento, y el nuevo precio para compras de $ 4.95, $ 9.95, $ 14.95, $ 19.95 y $ 24.95. Asegurar que los descuentos y los nuevos precios se redondean a 2 decimales cuando se muestran.
+
+### Programa No.63 Tabla de conversión de temperatura
+
+Escriba un programa que muestre una tabla de conversión de temperatura para grados Celsius y grados Fahrenheit. La tabla debe incluir filas para todas las temperaturas entre 0 y 100 grados centígrados que son múltiplos de 10 grados centígrados. Incluir apropiado
+encabezados en sus columnas. La fórmula para convertir entre grados Celsius y grados Fahrenheit se pueden encontrar en internet.
+
+### Programa No.64 No más centavos
+
+El 4 de febrero de 2013 fue el último día en que el Royal Canadian distribuyó centavos.
+Menta. Ahora que los centavos se han eliminado, los minoristas deben ajustar los totales para que puedan
+son múltiplos de 5 centavos cuando se pagan en efectivo (tarjeta de crédito y débito) las transacciones se siguen cargando al centavo). Mientras que los minoristas tienen algo de libertad en cómo lo hacen, la mayoría elige redondear al níquel más cercano.
+Escriba un programa que lea los precios del usuario hasta que se ingrese una línea en blanco.
+Muestra el costo total de todos los artículos ingresados ​​en una línea, seguido del monto debido si el cliente paga con efectivo en una segunda línea. El monto adeudado por un efectivo, el pago debe redondearse al níquel más cercano. Una forma de calcular el efectivo
+el monto del pago comenzará determinando cuántos centavos serían necesarios para pagar el total Luego calcule el resto cuando este número de centavos se divide por 5. Finalmente, ajuste el total hacia abajo si el resto es inferior a 2.5. De lo contrario, ajuste
+el total arriba.
+
+### Programa No.65 Calcular el perímetro de un polígono
+
+Escribe un programa que calcula el perímetro de un polígono. Comience leyendo los valores y para el primer punto en el perímetro del polígono del usuario. Luego continúe leyendo pares de valores x e y hasta que el usuario ingrese una línea en blanco para
+Coordenada x. Cada vez que lea una coordenada adicional, debe calcular el
+distancia al punto anterior y agregarlo al perímetro. Cuando se ingresa una línea en blanco
+para la coordenada x, su programa debe agregar la distancia desde el último punto hacia atrás
+al primer punto al perímetro. Entonces debería mostrar el perímetro total. Muestra
+La entrada y salida se muestra a continuación, con la entrada del usuario en negrita:
+Ingrese la parte x de la coordenada: 0
+Ingrese la parte y de la coordenada: 0
+Ingrese la parte x de la coordenada: (en blanco para salir): 1
+Ingrese la parte y de la coordenada: 0
+Ingrese la parte x de la coordenada: (en blanco para salir): 0
+Ingrese la parte y de la coordenada: 1
+Ingrese la parte x de la coordenada: (en blanco para salir):
+El perímetro de ese polígono es 3.414213562373095
+
+### Programa No.66 Calcular un promedio de calificaciones
+
+El ejercicio 51 incluyó una tabla que muestra la conversión de calificaciones de letras a calificaciones
+puntos en una institución académica particular. En este ejercicio calcularás el promedio de calificaciones de un número arbitrario de calificaciones de letras ingresadas por el usuario. los el usuario ingresará una línea en blanco para indicar que se han proporcionado todas las calificaciones. por ejemplo, si el usuario ingresa A, seguido de C +, seguido de B, seguido de un espacio en blanco
+línea, entonces su programa debe reportar un promedio de calificaciones de 3.1. Puede encontrar útil su solución para el ejercicio 51 al completar este ejercicio. Su programa no necesita hacer ninguna comprobación de errores. Puede suponer que cada valor ingresado por el usuario siempre será una calificación de letra válida o una línea en blanco.
+
+### Programa No.67 Precio de admisión
+
+Un zoológico en particular determina el precio de admisión según la edad del huésped.
+Los huéspedes de 2 años de edad y menores son admitidos sin cargo. Niños entre 3 y 12 años de edad cuestan $ 14.00. Las personas mayores de 65 años y más cuestan $ 18.00. Admisión para todos los demás huéspedes es de $ 23.00. Cree un programa que comience leyendo las edades de todos los invitados en un grupo del usuario, con una edad ingresada en cada línea. El usuario ingresará una línea en blanco para indica que no hay más invitados en el grupo. Entonces su programa debería mostrar El costo de admisión para el grupo con un mensaje apropiado. El costo debe ser se muestra con dos decimales.
+
+
+### Programa No.68 Bits de paridad
+
+Un bit de paridad es un mecanismo simple para detectar errores en los datos transmitidos a través de un
+conexión poco confiable como una línea telefónica. La idea básica es que un poco más se transmite después de cada grupo de 8 bits para que un solo error de bit en la transmisión puede ser detectado
+Los bits de paridad se pueden calcular para paridad par o paridad impar. Si incluso paridad se selecciona entonces el bit de paridad que se transmite se elige de modo que el número total de un bit transmitido (8 bits de datos más el bit de paridad) es par. Cuando paridad impar se selecciona el bit de paridad se elige de modo que el número total de un bit transmitido es impar.
+Escriba un programa que calcule el bit de paridad para grupos de 8 bits ingresados por usuario usando paridad par. Su programa debe leer cadenas que contengan 8 bits hasta que el usuario ingresa una línea en blanco. Después de que el usuario ingrese cada cadena, su programa debería muestra un mensaje claro que indica si el bit de paridad debe ser 0 o 1. Pantalla un mensaje de error apropiado si el usuario ingresa algo diferente a 8 bits
+
+### Programa No.69 Approximate π
+
+El valor de π se puede aproximar mediante las siguientes series infinitas:
+π ≈ 3+ 4/((2 × 3 × 4)− 4(4 × 5 × 6)+ 4(6 × 7 × 8)− 4(8 × 9 × 10)+ 4(10 × 11 × 12))−· · ·
+Escriba un programa que muestre 15 aproximaciones de π. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrado por su programa debe incluir un término más en la serie, haciendo es una mejor aproximación de π que cualquiera de las aproximaciones mostradas anteriormente.
+ 
+### Programa No.70 Cifrado César
+
+Uno de los primeros ejemplos conocidos de cifrado fue utilizado por Julio César. César necesitaba proporcionar instrucciones escritas a sus generales, pero no quería a sus enemigos para conocer sus planes si el mensaje se deslizaba a sus manos. Como resultado, desarrolló
+lo que luego se conoció como el Cifrado César. La idea detrás de este cifrado es simple (y como resultado, no proporciona protección
+contra las modernas técnicas de descifrado de código). Cada letra en el mensaje original es desplazado por 3 lugares. Como resultado, A se convierte en D, B se convierte en E, C se convierte en F, D se convierte en G, etc. Las últimas tres letras del alfabeto se envuelven
+comienzo: X se convierte en A, Y se convierte en B y Z se convierte en C. Los caracteres que no son letras son no modificado por el cifrado. Escriba un programa que implemente un cifrado César. Permitir al usuario suministrar el mensaje y la cantidad de turno, y luego mostrar el mensaje desplazado. Asegurarse de que su programa codifica letras mayúsculas y minúsculas. Su programa debe también admite valores de desplazamiento negativos para que pueda usarse tanto para codificar mensajes como para decodificar mensajes.
+
+### Programa No.71 Raíz cuadrada
+
+Escriba un programa que implemente el método de Newton para calcular y mostrar el cuadrado raíz de un número ingresado por el usuario. El algoritmo para el método de Newton sigue:
+
+Leer x del usuario inicializar adivinar a x / 2 Mientras que adivinar no es lo suficientemente bueno actualizar conjetura para que sea el promedio de conjetura y x / conjetura
+
+Cuando se completa este algoritmo, supongo que contiene una aproximación del cuadrado raíz. La calidad de la aproximación depende de cómo se defina "lo suficientemente bueno". En la solución del autor, la conjetura se consideraba suficientemente buena cuando el valor absoluto de la diferencia entre adivinar ∗ adivinar y x fue menor o igual a 10−12.
+
+### Programa No.72 ¿Es una cuerda un palíndromo?
+
+Una cadena es un palíndromo si es idéntica hacia adelante y hacia atrás. Por ejemplo "anna",“Civic”, “level” y “hannah” son ejemplos de palabras palindrómicas. Escribir un programa que lee una cadena del usuario y usa un bucle para determinar si es o no un palíndromo. Muestra el resultado, incluido un mensaje de salida significativo.
+
+### Programa 73: Palíndromos de palabras múltiples
+
+Existen numerosas frases que son palíndromos cuando se ignora el espacio. Ejemplos incluyen "ir perro", "huir a mí elfo remoto" y "algunos hombres interpretan nueve notas", Entre muchos otros. Extienda su solución al Ejercicio 72 para que ignore el espaciado
+mientras determina si una cuerda es o no un palíndromo. Para un desafío adicional, extienda su solución para que también ignore los signos de puntuación y trate las mayúsculas y letras minúsculas como equivalentes.
+
+### Programa 74: tabla de multiplicar
+
+En este ejercicio creará un programa que muestra una tabla de multiplicación que muestra los productos de todas las combinaciones de enteros desde 1 por 1 hasta 10 veces 10. Su tabla de multiplicar debe incluir una fila de etiquetas en la parte superior contiene los números del 1 al 10. También debe incluir etiquetas a la izquierda lado que consiste en los números del 1 al 10. La salida esperada del programa se muestra a continuación
+imagen.<img src="74.png" />
+
 
 
 ### Aproximacion a pi.
