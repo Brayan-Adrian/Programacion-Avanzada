@@ -637,8 +637,133 @@ Después de haber mostrado 100 enteros, su programa debería mostrar el máximo 
 con ... representando los enteros restantes que mostrará su programa. Ejecute su programa varias veces. Es el número de actualizaciones realizadas en el valor máximo que esperabas
 imagen.<img src="79.png" />
 
+### Programa 80: simulación de lanzamiento de moneda
+
+¿Cuál es el número mínimo de veces que tiene que lanzar una moneda antes de poder tener tres lanzamientos consecutivos que resultan en el mismo resultado (los tres son cara o los tres son colas)? ¿Cuál es el número máximo de volteos que podrían ser necesarios? Cómo
+38 3 ejercicios de bucle Cuántas vueltas se necesitan en promedio? En este ejercicio exploraremos estas preguntas creando un programa que simule varias series de lanzamientos de monedas. Cree un programa que use el generador de números aleatorios de Python para simular el volteo una moneda varias veces La moneda simulada debe ser justa, lo que significa que la probabilidad de caras es igual a la probabilidad de colas. Tu programa debe voltearse simulado monedas hasta que ocurran 3 caras consecutivas de 3 colas consecutivas. Mostrar una H cada cada vez que el resultado es cara y una T cada vez que el resultado es cruz, con todos los resultados mostrados en la misma línea. Luego muestre la cantidad de vueltas necesarias para alcanzar 3 lanzamientos consecutivos con el mismo resultado. Cuando se ejecuta su programa, debería realice la simulación 10 veces e informe el número promedio de vueltas necesarias.
+La salida de muestra se muestra a continuación:
+imagen.<img src="80.png" />
+
+### Programa 81: calcule la hipotenusa
+
+Escribe una función que tome las longitudes de los dos lados más cortos de un triángulo rectángulo como sus parámetros Devuelve la hipotenusa del triángulo, calculada usando Pitágoras teorema, como resultado de la función. Incluya un programa principal que lea las longitudes de los lados más cortos de un triángulo rectángulo del usuario, usa su función para calcular el longitud de la hipotenusa, y muestra el resultado.
+
+### Programa 82: tarifa de taxi
+
+En una jurisdicción particular, las tarifas de taxi consisten en una tarifa base de $ 4.00, más $ 0.25 por cada 140 metros recorridos. Escriba una función que tome la distancia recorrida (en kilómetros) como su único parámetro y devuelve la tarifa total como su único resultado. Escribe un programa principal que demuestra la función.
+Sugerencia: las tarifas de taxi cambian con el tiempo. Use constantes para representar la tarifa base y la porción variable de la tarifa para que el programa pueda actualizarse fácilmente cuando Las tarifas aumentan.
+
+### Programa 83: calculadora de envíos
+
+Un minorista en línea ofrece envío expreso para muchos de sus artículos a una tarifa de $ 10.95 para el primer artículo y $ 2.95 por cada artículo posterior. Escribe una función que tome el número de elementos en el pedido como único parámetro. Devuelva los gastos de envío de el orden como resultado de la función. Incluya un programa principal que lea el número de artículos comprados al usuario y muestra los gastos de envío.
+
+### Programa 84: mediana de tres valores
+
+Escriba una función que tome tres números como parámetros y devuelva el valor medio de esos parámetros como resultado. Incluya un programa principal que lea tres valores de el usuario y muestra su mediana. Sugerencia: el valor medio es el medio de los tres valores cuando se ordenan en orden ascendente. Se puede encontrar usando declaraciones if, o con un poco de creatividad matemática
+
+### Programa 85: convierta un entero a su número ordinal
+
+Las palabras como primero, segundo y tercero se denominan números ordinales. En este ejercicio escribirás una función que toma un número entero como su único parámetro y devuelve un cadena que contiene el número ordinal inglés apropiado como único resultado. Tu
+La función debe manejar los enteros entre 1 y 12 (inclusive). Debería devolver un cadena vacía si se proporciona un valor fuera de este rango como parámetro. Incluir un programa principal que demuestra su función mostrando cada número entero de 1 a 12 y su número ordinal. Su programa principal solo debe ejecutarse cuando su archivo tiene no ha sido importado a otro programa.
+
+### Programa 86: los doce días de Navidad
+
+The Twelve Days of Christmas es una canción repetitiva que describe una creciente
+larga lista de regalos enviados al verdadero amor en cada uno de los 12 días. Se envía un solo regalo el
+el primer día. Se agrega un nuevo regalo a la colección cada día adicional, y luego
+Se envía la colección completa. Los primeros tres versos de la canción se muestran a continuación.
+Las letras completas están disponibles en internet.
+
+En el primer día de navidad
+mi verdadero amor me envió:
+Una perdiz en un peral.
+En el segundo día de navidad
+mi verdadero amor me envió:
+Dos tórtolas,
+Y una perdiz en un peral.
+En el tercer día de navidad
+mi verdadero amor me envió:
+Tres gallinas francesas
+Dos tórtolas,
+Y una perdiz en un peral.
+
+Su tarea es escribir un programa que muestre la letra completa de The Twelve
+Días de navidad. Escribe una función que tome el número del verso como su único parámetro
+y muestra el verso especificado de la canción. Luego llame a esa función 12 veces con
+enteros que aumentan de 1 a 12.
+Cada elemento que se envía al destinatario en la canción solo debe aparecer una vez en su
+programa, con la posible excepción de la perdiz. Puede aparecer dos veces si eso
+te ayuda a manejar la diferencia entre "Una perdiz en un peral" en el primer verso
+y "Y una perdiz en un peral" en los versos posteriores. Importa tu solución
+al ejercicio 85 para ayudarlo a completar este ejercicio.
+
+### Programa 87: centrar una cadena en la terminal
+
+Escriba una función que tome una cadena de caracteres como primer parámetro y el ancho de
+el terminal en caracteres como su segundo parámetro. Su función debería devolver un nuevo
+cadena que consta de la cadena original y el número correcto de espacios iniciales
+para que la cadena original aparezca centrada dentro del ancho proporcionado cuando está
+impreso. No agregue ningún carácter al final de la cadena. Incluir un programa principal
+eso demuestra tu función.
+
+### Programa 88: ¿es un triángulo válido?
+
+Si tiene 3 pajitas, posiblemente de diferentes longitudes, puede o no ser posible acostarlos para que formen un triángulo cuando sus extremos se toquen. por ejemplo, si todas las pajitas tienen una longitud de 6 pulgadas. entonces uno puede construir fácilmente
+un triángulo equilátero usándolos. Sin embargo, si un popote es de 6 pulgadas. largo, mientras que el las otras dos son cada una de solo 2 pulgadas. largo, entonces no se puede formar un triángulo. En general, si alguna longitud es mayor o igual que la suma de las otras dos, entonces las longitudes no se puede usar para formar un triángulo. De lo contrario, pueden formar un triángulo.
+Escribe una función que determine si tres longitudes pueden o no formar un triángulo. La función tomará 3 parámetros y devolverá un resultado booleano. Además, escribe un programa que lee 3 longitudes del usuario y demuestra el comportamiento de este función.
+
+### Programa 89: capitalízalo
+
+Muchas personas no usan letras mayúsculas correctamente, especialmente cuando escriben en letra pequeña dispositivos como teléfonos inteligentes. En este ejercicio, escribirás una función que capitaliza Los caracteres apropiados en una cadena. Una "i" minúscula debe ser reemplazada por una "I" mayúscula si está precedido y seguido por un espacio. El primer personaje en la cadena también debe estar en mayúscula, así como el primer carácter no espacial después de un ".", "!" O "?". Por ejemplo, si la función se proporciona con la cadena "a qué hora ¿Tengo que estar allí? ¿cuál es la dirección? ", entonces debería devolver la cadena" What tiempo tengo que estar allí? ¿Cual es la dirección?". Incluya un programa principal que lea una cadena del usuario, la capitaliza utilizando su función y muestra el resultado.
+
+### Programa 90: ¿una cadena representa un número entero?
+
+En este ejercicio escribirá una función llamada is Integer que determina si los caracteres en una cadena representan o no un número entero válido. Al determinar Si una cadena representa un número entero, debe ignorar cualquier espacio en blanco inicial o final.
+Una vez que se ignora este espacio en blanco, una cadena representa un número entero si su longitud es al menos 1 y solo contiene dígitos, o si su primer carácter es + o - y el primero el carácter es seguido por uno o más caracteres, todos los cuales son dígitos. Escriba un programa principal que lea una cadena del usuario e informe si o No representa un número entero. Asegúrese de que el programa principal no se ejecutará si el archivo que contiene su solución se importa a otro programa.
+
+### Programa 91: precedencia del operador
+
+Escriba una función llamada precedencia que devuelva un número entero que represente la precedencia
+de un operador matemático. Una cadena que contiene el operador se pasará a la función como su único parámetro. Su función debe devolver 1 para + y -, 2 para * y /, y 3 para ˆ. Si la cadena pasada a la función no es uno de estos operadores
+entonces la función debería devolver -1. Incluya un programa principal que lea un operador del usuario y muestra la precedencia del operador o un mensaje de error que indica que la entrada no era un operador. Su programa principal solo debe ejecutarse cuando
+el archivo que contiene su solución no se ha importado a otro programa. En este ejercicio, junto con otros que aparecen más adelante en el libro, usaremos ˆ para representan exponenciación. Usar ˆ en lugar de la elección de Python de ** hará que
+Estos ejercicios son más fáciles porque un operador siempre será un solo personaje. Ejercicio 92: ¿es un número primo? Un número primo es un número entero mayor que 1 que solo es divisible por uno y por sí mismo. Escriba una función que determine si su parámetro es primo o no, devolviendo Verdadero si es así, y falso de lo contrario. Escribe un programa principal que lea un número entero
+del usuario y muestra un mensaje que indica si es primo o no. Asegurar que el programa principal no se ejecutará si se importa el archivo que contiene su solución en otro programa.
+
+### Programa 93: Next Prime
+
+En este ejercicio creará una función llamada nextPrime que encuentra y devuelve el primer número primo más grande que un número entero, n. El valor de n se pasará a 44 4 ejercicios de funciones la función como su único parámetro. Incluya un programa principal que lea un número entero de el usuario y muestra el primer número primo mayor que el valor ingresado. Importar
+y use su solución para el Ejercicio 92 mientras completa este ejercicio.
+
+### Programa 94: contraseña aleatoria
+
+Escribe una función que genere una contraseña aleatoria. La contraseña debe tener un longitud aleatoria de entre 7 y 10 caracteres. Cada personaje debe ser al azar seleccionado de las posiciones 33 a 126 en la tabla ASCII. Tu función no tomará cualquier parámetro Devolverá la contraseña generada aleatoriamente como su único resultado. Muestra la contraseña generada aleatoriamente en el programa principal de tu archivo. Tu principal El programa solo debe ejecutarse cuando su solución no se haya importado a otro archivo. 
+
+### Programa 95: matrícula aleatoria
+
+En una jurisdicción particular, las matrículas más antiguas constan de tres letras seguidas de Tres números. Cuando se utilizaron todas las placas que siguen ese patrón, El formato se cambió a cuatro números seguidos de tres letras. Escriba una función que genere una matrícula aleatoria. Tu función debería tener probabilidades aproximadamente iguales de generar una secuencia de caracteres para una licencia anterior placa o una nueva placa de matrícula. Escriba un programa principal que llame a su función y muestra la placa generada al azar.
+
+### Programa 96: verificar una contraseña
+
+En este ejercicio escribirá una función que determina si una contraseña es o no es bueno. Definiremos una buena contraseña como una que tenga al menos 8 caracteres. largo y contiene al menos una letra mayúscula, al menos una letra minúscula y al menos un número Su función debe devolver verdadero si la contraseña se le pasó como Su único parámetro es bueno. De lo contrario, debería devolver falso. Incluir un programa principal que lee una contraseña del usuario e informa si es buena o no. Asegurar que su programa principal solo se ejecuta cuando su solución no se ha importado a otro archivo
+
+### Programa 97: buena contraseña aleatoria
+Usando sus soluciones para los Ejercicios 94 y 96, escriba un programa que genere un azar buena contraseña y la muestra. Cuente y muestre el número de intentos que fueron necesario antes de que se generara una buena contraseña. Estructura tu solución para que
+importa las funciones que escribió anteriormente y luego las llama desde una función llamado main en el archivo que crea para este 
+
+### Programa 98: dígitos hexadecimales y decimales
+Escriba dos funciones, hex2int e int2hex, que conviertan entre hexadecimales dígitos (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E y F) y enteros de base 10. los La función hex2int es responsable de convertir una cadena que contiene un solo hexadecimal
+dígito a un entero de base 10, mientras que la función int2hex es responsable de convertir un entero entre 0 y 15 a un solo dígito hexadecimal. Cada función tomará el valor para convertir como su único parámetro y devolverá el valor convertido
+como el único resultado de la función. Asegúrese de que la función hex2int funcione correctamente para letras mayúsculas y minúsculas. Sus funciones deben finalizar el programa con un mensaje de error significativo si se proporciona un parámetro no válido.
+
+### Programa 99: conversiones de bases arbitrarias
+
+Escriba un programa que permita al usuario convertir un número de una base a otra. Su programa debe admitir bases entre 2 y 16 para el número de entrada y El número de resultado. Si el usuario elige una base fuera de este rango, entonces un apropiado Se debe mostrar un mensaje de error y el programa debe salir. Divide tu programa en varias funciones, incluida una función que convierte de una base arbitraria a base 10, una función que convierte de base 10 a una base arbitraria, y una programa que lee las bases y el número de entrada del usuario. Puedes encontrar tu Las soluciones a los ejercicios 77, 78 y 98 son útiles al completar este ejercicio.
 
 
+### Programa 100: días en un mes
+
+Escriba una función que determine cuántos días hay en un mes en particular. Tu La función tomará dos parámetros: el mes como un entero entre 1 y 12, y el año como un entero de cuatro dígitos. Asegúrese de que su función informe el número correcto de días en febrero para años bisiestos. Incluya un programa principal que lea un mes y año del usuario y muestra el número de días en ese mes. 
 
 ### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
