@@ -408,12 +408,30 @@ Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacio
 Y tambien lo podemos ver en la siguiente imagen.<img src="47.png" />
 
 ### Programa No.49 Escala Richter
+
 La siguiente tabla contiene rangos de magnitud de terremotos en la escala de Richter y sus descriptores:
 imagen.<img src="49.png" />
 Escriba un programa que lea la admiración del usuario y muestre la información apropiada describe como parte de un mensaje significativo. Por ejemplo, si el usuario ingresa 5.5 entonces su programa debe indicar que un terremoto de magnitud 5.5 se considera terremoto moderado
 Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="47.png" />
 
+### Programa No.50 Raíces de una función cuadrática
+
+Una función cuadrática univariada tiene la forma f (x) = ax2 + bx + c, donde a, b y c son constantes y a no es cero. Se pueden encontrar las raíces de una función cuadrática encontrando los valores de x que satisfacen la ecuación cuadrática ax2 + bx + c = 0. A
+La función cuadrática puede tener 0, 1 o 2 raíces reales. Estas raíces se pueden calcular usando la fórmula cuadrática, que se muestra a continuación:
+raíz =(−b ±(√b2 - 4ac))/2a
+La parte de la expresión debajo del signo de raíz cuadrada se llama discriminante.
+Si el discriminante es negativo, entonces la ecuación cuadrática no tiene raíces reales.
+Si el discriminante es 0, entonces la ecuación tiene una raíz real. De lo contrario, la ecuación tiene dos raíces reales, y la expresión debe evaluarse dos veces, una vez usando un signo más signo, y una vez que usa un signo menos, al calcular el numerador.
+Escriba un programa que calcule las raíces reales de una función cuadrática. Su programa debe comenzar solicitando al usuario los valores de a, byc. Entonces debería mostrar un mensaje que indica el número de raíces reales, junto con los valores de las raíces reales
+(Si alguna).
+
+### Programa No.51 Calificación de letras a puntos de calificación
+
+En una universidad en particular, las calificaciones con letras se asignan a puntos de calificación en el siguiente
+manera: imagen.<img src="51.png" />
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="41..png" />
 
 ### Aproximacion a pi.
 El valor de pi se puede aproximar mediante las siguientes series infinitas.
