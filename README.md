@@ -516,7 +516,7 @@ En este ejercicio creará un programa que calcula el promedio de una colección 
 Un minorista en particular está teniendo un 60 por ciento de descuento en una variedad de productos descontinuados.
 productos El minorista desea ayudar a sus clientes a determinar el precio reducido.
 de la mercancía al tener una tabla de descuento impresa en el estante que muestra loa precios originales y los precios posteriores a la aplicación del descuento. Escribe un programa que usa un bucle para generar esta tabla, que muestra el precio original, el monto del descuento, y el nuevo precio para compras de $ 4.95, $ 9.95, $ 14.95, $ 19.95 y $ 24.95. Asegurar que los descuentos y los nuevos precios se redondean a 2 decimales cuando se muestran.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa62.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="62.1.png" />
 
 ### Programa No.63 Tabla de conversión de temperatura
