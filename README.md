@@ -584,6 +584,9 @@ Uno de los primeros ejemplos conocidos de cifrado fue utilizado por Julio César
 lo que luego se conoció como el Cifrado César. La idea detrás de este cifrado es simple (y como resultado, no proporciona protección
 contra las modernas técnicas de descifrado de código). Cada letra en el mensaje original es desplazado por 3 lugares. Como resultado, A se convierte en D, B se convierte en E, C se convierte en F, D se convierte en G, etc. Las últimas tres letras del alfabeto se envuelven
 comienzo: X se convierte en A, Y se convierte en B y Z se convierte en C. Los caracteres que no son letras son no modificado por el cifrado. Escriba un programa que implemente un cifrado César. Permitir al usuario suministrar el mensaje y la cantidad de turno, y luego mostrar el mensaje desplazado. Asegurarse de que su programa codifica letras mayúsculas y minúsculas. Su programa debe también admite valores de desplazamiento negativos para que pueda usarse tanto para codificar mensajes como para decodificar mensajes.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa70.1.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="70.1.png" />
+
 
 ### Programa No.71 Raíz cuadrada
 
