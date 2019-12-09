@@ -604,6 +604,8 @@ Una cadena es un palíndromo si es idéntica hacia adelante y hacia atrás. Por 
 
 Existen numerosas frases que son palíndromos cuando se ignora el espacio. Ejemplos incluyen "ir perro", "huir a mí elfo remoto" y "algunos hombres interpretan nueve notas", Entre muchos otros. Extienda su solución al Ejercicio 72 para que ignore el espaciado
 mientras determina si una cuerda es o no un palíndromo. Para un desafío adicional, extienda su solución para que también ignore los signos de puntuación y trate las mayúsculas y letras minúsculas como equivalentes.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/Problema78.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="73.1.png" />
 
 ### Programa 74: tabla de multiplicar
 
