@@ -660,7 +660,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="81.1.png" />
 
 En una jurisdicción particular, las tarifas de taxi consisten en una tarifa base de $ 4.00, más $ 0.25 por cada 140 metros recorridos. Escriba una función que tome la distancia recorrida (en kilómetros) como su único parámetro y devuelve la tarifa total como su único resultado. Escribe un programa principal que demuestra la función.
 Sugerencia: las tarifas de taxi cambian con el tiempo. Use constantes para representar la tarifa base y la porción variable de la tarifa para que el programa pueda actualizarse fácilmente cuando Las tarifas aumentan.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa82.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="82.1.png" />
 
 ### Programa 83: calculadora de envíos
