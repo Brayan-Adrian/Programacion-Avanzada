@@ -455,7 +455,7 @@ Escriba un programa que lea la longitud de onda del usuario e informe su color. 
 La radiación electromagnética se puede clasificar en una de las 7 categorías según su frecuencia, como se muestra en la tabla a continuación:
 imagen.<img src="55.png" />
 Escriba un programa que lea la frecuencia de la radiación del usuario y muestre el nombre apropiado.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa55.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="55.1.png" />
 
 ### Programa No.56 Bill de teléfono celular
