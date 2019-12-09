@@ -653,7 +653,7 @@ imagen.<img src="80.png" />
 ### Programa 81: calcule la hipotenusa
 
 Escribe una función que tome las longitudes de los dos lados más cortos de un triángulo rectángulo como sus parámetros Devuelve la hipotenusa del triángulo, calculada usando Pitágoras teorema, como resultado de la función. Incluya un programa principal que lea las longitudes de los lados más cortos de un triángulo rectángulo del usuario, usa su función para calcular el longitud de la hipotenusa, y muestra el resultado.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Solucion.El codigo es el siguiente,https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa81.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="81.1.png" />
 
 ### Programa 82: tarifa de taxi
