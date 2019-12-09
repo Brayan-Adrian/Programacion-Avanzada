@@ -666,7 +666,7 @@ Y tambien lo podemos ver en la siguiente imagen.<img src="82.1.png" />
 ### Programa 83: calculadora de envíos
 
 Un minorista en línea ofrece envío expreso para muchos de sus artículos a una tarifa de $ 10.95 para el primer artículo y $ 2.95 por cada artículo posterior. Escribe una función que tome el número de elementos en el pedido como único parámetro. Devuelva los gastos de envío de el orden como resultado de la función. Incluya un programa principal que lea el número de artículos comprados al usuario y muestra los gastos de envío.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa83.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="83.1.png" />
 
 ### Programa 84: mediana de tres valores
