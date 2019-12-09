@@ -516,6 +516,8 @@ En este ejercicio creará un programa que calcula el promedio de una colección 
 Un minorista en particular está teniendo un 60 por ciento de descuento en una variedad de productos descontinuados.
 productos El minorista desea ayudar a sus clientes a determinar el precio reducido.
 de la mercancía al tener una tabla de descuento impresa en el estante que muestra loa precios originales y los precios posteriores a la aplicación del descuento. Escribe un programa que usa un bucle para generar esta tabla, que muestra el precio original, el monto del descuento, y el nuevo precio para compras de $ 4.95, $ 9.95, $ 14.95, $ 19.95 y $ 24.95. Asegurar que los descuentos y los nuevos precios se redondean a 2 decimales cuando se muestran.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="62.1.png" />
 
 ### Programa No.63 Tabla de conversión de temperatura
 
@@ -573,6 +575,8 @@ Escriba un programa que calcule el bit de paridad para grupos de 8 bits ingresad
 El valor de π se puede aproximar mediante las siguientes series infinitas:
 π ≈ 3+ 4/((2 × 3 × 4)− 4(4 × 5 × 6)+ 4(6 × 7 × 8)− 4(8 × 9 × 10)+ 4(10 × 11 × 12))−· · ·
 Escriba un programa que muestre 15 aproximaciones de π. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrado por su programa debe incluir un término más en la serie, haciendo es una mejor aproximación de π que cualquiera de las aproximaciones mostradas anteriormente.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="69.1.png" />
  
 ### Programa No.70 Cifrado César
 
@@ -649,15 +653,21 @@ imagen.<img src="80.png" />
 ### Programa 81: calcule la hipotenusa
 
 Escribe una función que tome las longitudes de los dos lados más cortos de un triángulo rectángulo como sus parámetros Devuelve la hipotenusa del triángulo, calculada usando Pitágoras teorema, como resultado de la función. Incluya un programa principal que lea las longitudes de los lados más cortos de un triángulo rectángulo del usuario, usa su función para calcular el longitud de la hipotenusa, y muestra el resultado.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="81.1.png" />
 
 ### Programa 82: tarifa de taxi
 
 En una jurisdicción particular, las tarifas de taxi consisten en una tarifa base de $ 4.00, más $ 0.25 por cada 140 metros recorridos. Escriba una función que tome la distancia recorrida (en kilómetros) como su único parámetro y devuelve la tarifa total como su único resultado. Escribe un programa principal que demuestra la función.
 Sugerencia: las tarifas de taxi cambian con el tiempo. Use constantes para representar la tarifa base y la porción variable de la tarifa para que el programa pueda actualizarse fácilmente cuando Las tarifas aumentan.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="82.1.png" />
 
 ### Programa 83: calculadora de envíos
 
 Un minorista en línea ofrece envío expreso para muchos de sus artículos a una tarifa de $ 10.95 para el primer artículo y $ 2.95 por cada artículo posterior. Escribe una función que tome el número de elementos en el pedido como único parámetro. Devuelva los gastos de envío de el orden como resultado de la función. Incluya un programa principal que lea el número de artículos comprados al usuario y muestra los gastos de envío.
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Y tambien lo podemos ver en la siguiente imagen.<img src="83.1.png" />
 
 ### Programa 84: mediana de tres valores
 
