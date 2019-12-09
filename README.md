@@ -575,7 +575,7 @@ Escriba un programa que calcule el bit de paridad para grupos de 8 bits ingresad
 El valor de π se puede aproximar mediante las siguientes series infinitas:
 π ≈ 3+ 4/((2 × 3 × 4)− 4(4 × 5 × 6)+ 4(6 × 7 × 8)− 4(8 × 9 × 10)+ 4(10 × 11 × 12))−· · ·
 Escriba un programa que muestre 15 aproximaciones de π. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrado por su programa debe incluir un término más en la serie, haciendo es una mejor aproximación de π que cualquiera de las aproximaciones mostradas anteriormente.
-Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/47.py
+Solucion.El codigo es el siguiente, https://github.com/Brayan-Adrian/Programacion-Avanzada/blob/master/programa69.py
 Y tambien lo podemos ver en la siguiente imagen.<img src="69.1.png" />
  
 ### Programa No.70 Cifrado César
